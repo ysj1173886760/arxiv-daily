@@ -24,5 +24,7 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "RAG": 
         filters: ["RAG", "Retrieval-Augmented Generation"]
+    "GraphRAG":
+        filters: ["RAG AND Graph"]
     "Agent":
         filters: ["Agent AND LLM"]
