@@ -2,23 +2,57 @@
 layout: default
 ---
 
-## Updated on 2025.02.17
+## Updated on 2025.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RAG
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
+|**2025-02-17**|**CONSTRUCTA: Automating Commercial Construction Schedules in Fabrication Facilities with Large Language Models**|Yifan Zhang et.al.|[2502.12066](http://arxiv.org/abs/2502.12066)|null|
+|**2025-02-17**|**FineFilter: A Fine-grained Noise Filtering Mechanism for Retrieval-Augmented Large Language Models**|Qianchi Zhang et.al.|[2502.11811](http://arxiv.org/abs/2502.11811)|null|
+|**2025-02-17**|**Cognitive-Aligned Document Selection for Retrieval-augmented Generation**|Bingyu Wan et.al.|[2502.11770](http://arxiv.org/abs/2502.11770)|null|
+|**2025-02-17**|**Does RAG Really Perform Bad For Long-Context Processing?**|Kun Luo et.al.|[2502.11444](http://arxiv.org/abs/2502.11444)|null|
+|**2025-02-17**|**Revisiting Robust RAG: Do We Still Need Complex Robust Training in the Era of Powerful LLMs?**|Hanxing Ding et.al.|[2502.11400](http://arxiv.org/abs/2502.11400)|null|
+|**2025-02-17**|**RAG vs. GraphRAG: A Systematic Evaluation and Key Insights**|Haoyu Han et.al.|[2502.11371](http://arxiv.org/abs/2502.11371)|null|
+|**2025-02-16**|**Vendi-RAG: Adaptively Trading-Off Diversity And Quality Significantly Improves Retrieval Augmented Generation With LLMs**|Mohammad Reza Rezaei et.al.|[2502.11228](http://arxiv.org/abs/2502.11228)|null|
+|**2025-02-16**|**Bridging the Gap: Enabling Natural Language Queries for NoSQL Databases through Text-to-NoSQL Translation**|Jinwei Lu et.al.|[2502.11201](http://arxiv.org/abs/2502.11201)|null|
+|**2025-02-16**|**Investigating Language Preference of Multilingual RAG Systems**|Jeonghyun Park et.al.|[2502.11175](http://arxiv.org/abs/2502.11175)|null|
+|**2025-02-16**|**NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM**|Zihan Wang et.al.|[2502.11142](http://arxiv.org/abs/2502.11142)|null|
+|**2025-02-16**|**Gumbel Reranking: Differentiable End-to-End Reranker Optimization**|Siyuan Huang et.al.|[2502.11116](http://arxiv.org/abs/2502.11116)|null|
+|**2025-02-16**|**Streamlining the Collaborative Chain of Models into A Single Forward Pass in Generation-Based Tasks**|Yuanjie Lyu et.al.|[2502.11083](http://arxiv.org/abs/2502.11083)|null|
+|**2025-02-16**|**TPCap: Unlocking Zero-Shot Image Captioning with Trigger-Augmented and Multi-Modal Purification Modules**|Ruoyu Zhang et.al.|[2502.11024](http://arxiv.org/abs/2502.11024)|null|
+|**2025-02-16**|**MultiTEND: A Multilingual Benchmark for Natural Language to NoSQL Query Translation**|Zhiqian Qin et.al.|[2502.11022](http://arxiv.org/abs/2502.11022)|null|
+|**2025-02-16**|**RoseRAG: Robust Retrieval-augmented Generation with Small-scale LLMs via Margin-aware Preference Optimization**|Tianci Liu et.al.|[2502.10993](http://arxiv.org/abs/2502.10993)|null|
+|**2025-02-16**|**QuOTE: Question-Oriented Text Embeddings**|Andrew Neeser et.al.|[2502.10976](http://arxiv.org/abs/2502.10976)|null|
+|**2025-02-16**|**SpeechT-RAG: Reliable Depression Detection in LLMs with Retrieval-Augmented Generation Using Speech Timing Information**|Xiangyu Zhang et.al.|[2502.10950](http://arxiv.org/abs/2502.10950)|null|
+|**2025-02-15**|**CiteCheck: Towards Accurate Citation Faithfulness Detection**|Ziyao Xu et.al.|[2502.10881](http://arxiv.org/abs/2502.10881)|null|
+|**2025-02-15**|**NitiBench: A Comprehensive Studies of LLM Frameworks Capabilities for Thai Legal Question Answering**|Pawitsapak Akarajaradwong et.al.|[2502.10868](http://arxiv.org/abs/2502.10868)|null|
+|**2025-02-15**|**Improving Retrieval-Augmented Deep Assertion Generation via Joint Training**|Quanjun Zhang et.al.|[2502.10696](http://arxiv.org/abs/2502.10696)|null|
+|**2025-02-15**|**Dataset Protection via Watermarked Canaries in Retrieval-Augmented LLMs**|Yepeng Liu et.al.|[2502.10673](http://arxiv.org/abs/2502.10673)|null|
+|**2025-02-15**|**LLM-Lasso: A Robust Framework for Domain-Informed Feature Selection and Regularization**|Erica Zhang et.al.|[2502.10648](http://arxiv.org/abs/2502.10648)|null|
+|**2025-02-14**|**Post-training an LLM for RAG? Train on Self-Generated Demonstrations**|Matthew Finlayson et.al.|[2502.10596](http://arxiv.org/abs/2502.10596)|null|
+|**2025-02-14**|**Hallucinations and Truth: A Comprehensive Accuracy Evaluation of RAG, LoRA and DoRA**|Mohammad Baqar et.al.|[2502.10497](http://arxiv.org/abs/2502.10497)|null|
+|**2025-02-10**|**Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Ownership Verification with Reasoning**|Junfeng Guo et.al.|[2502.10440](http://arxiv.org/abs/2502.10440)|null|
+|**2025-02-17**|**CLaMP 3: Universal Music Information Retrieval Across Unaligned Modalities and Unseen Languages**|Shangda Wu et.al.|[2502.10362](http://arxiv.org/abs/2502.10362)|null|
+|**2025-02-14**|**Agentic Verification for Ambiguous Query Disambiguation**|Youngwon Lee et.al.|[2502.10352](http://arxiv.org/abs/2502.10352)|null|
+|**2025-02-14**|**NeuroXVocal: Detection and Explanation of Alzheimer's Disease through Non-invasive Analysis of Picture-prompted Speech**|Nikolaos Ntampakis et.al.|[2502.10108](http://arxiv.org/abs/2502.10108)|null|
+|**2025-02-14**|**LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing**|Kuan Li et.al.|[2502.09977](http://arxiv.org/abs/2502.09977)|null|
+|**2025-02-14**|**ChatIoT: Large Language Model-based Security Assistant for Internet of Things with Retrieval-Augmented Generation**|Ye Dong et.al.|[2502.09896](http://arxiv.org/abs/2502.09896)|null|
+|**2025-02-14**|**ArchRAG: Attributed Community-based Hierarchical Retrieval-Augmented Generation**|Shu Wang et.al.|[2502.09891](http://arxiv.org/abs/2502.09891)|null|
+|**2025-02-13**|**Knowledge-Enhanced Program Repair for Data Science Code**|Shuyin Ouyang et.al.|[2502.09771](http://arxiv.org/abs/2502.09771)|null|
+|**2025-02-11**|**AI-VERDE: A Gateway for Egalitarian Access to Large Language Model-Based Resources For Educational Institutions**|Paul Mithun et.al.|[2502.09651](http://arxiv.org/abs/2502.09651)|null|
 |**2025-02-13**|**KIMAs: A Configurable Knowledge Integrated Multi-Agent System**|Zitao Li et.al.|[2502.09596](http://arxiv.org/abs/2502.09596)|null|
 |**2025-02-13**|**ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation**|Rotem Shalev-Arkushin et.al.|[2502.09411](http://arxiv.org/abs/2502.09411)|null|
-|**2025-02-13**|**SQuARE: Sequential Question Answering Reasoning Engine for Enhanced Chain-of-Thought in Large Language Models**|Daniel Fleischer et.al.|[2502.09390](http://arxiv.org/abs/2502.09390)|null|
+|**2025-02-13**|**SQuARE: Sequential Question Answering Reasoning Engine for Enhanced Chain-of-Thought in Large Language Models**|Daniel Fleischer et.al.|[2502.09390](http://arxiv.org/abs/2502.09390)|**[link](https://github.com/intellabs/rag-fit)**|
 |**2025-02-13**|**KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG**|Yiqian Huang et.al.|[2502.09304](http://arxiv.org/abs/2502.09304)|null|
 |**2025-02-13**|**Improving TCM Question Answering through Tree-Organized Self-Reflective Retrieval with LLMs**|Chang Liu et.al.|[2502.09156](http://arxiv.org/abs/2502.09156)|null|
 |**2025-02-13**|**Enhancing RAG with Active Learning on Conversation Records: Reject Incapables and Answer Capables**|Xuzhao Geng et.al.|[2502.09073](http://arxiv.org/abs/2502.09073)|null|
 |**2025-02-13**|**Diversity Enhances an LLM's Performance in RAG and Long-context Task**|Zhchao Wang et.al.|[2502.09017](http://arxiv.org/abs/2502.09017)|null|
-|**2025-02-12**|**Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation**|Mohammad Mahdi Abootorabi et.al.|[2502.08826](http://arxiv.org/abs/2502.08826)|null|
+|**2025-02-12**|**Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation**|Mohammad Mahdi Abootorabi et.al.|[2502.08826](http://arxiv.org/abs/2502.08826)|**[link](https://github.com/llm-lab-org/multimodal-rag-survey)**|
 |**2025-02-12**|**From PowerPoint UI Sketches to Web-Based Applications: Pattern-Driven Code Generation for GIS Dashboard Development Using Knowledge-Augmented LLMs, Context-Aware Visual Prompting, and the React Framework**|Haowen Xu et.al.|[2502.08756](http://arxiv.org/abs/2502.08756)|null|
-|**2025-02-12**|**Systematic Knowledge Injection into Large Language Models via Diverse Augmentation for Domain-Specific RAG**|Kushagra Bhushan et.al.|[2502.08356](http://arxiv.org/abs/2502.08356)|null|
+|**2025-02-17**|**Systematic Knowledge Injection into Large Language Models via Diverse Augmentation for Domain-Specific RAG**|Kushagra Bhushan et.al.|[2502.08356](http://arxiv.org/abs/2502.08356)|null|
 |**2025-02-12**|**UniCoRN: Unified Commented Retrieval Network with LMMs**|Maximilian Jaritz et.al.|[2502.08254](http://arxiv.org/abs/2502.08254)|null|
 |**2025-02-12**|**ParetoRAG: Leveraging Sentence-Context Attention for Robust and Efficient Retrieval-Augmented Generation**|Ruobing Yao et.al.|[2502.08178](http://arxiv.org/abs/2502.08178)|null|
 |**2025-02-12**|**Cognify: Supercharging Gen-AI Workflows With Hierarchical Autotuning**|Zijian He et.al.|[2502.08056](http://arxiv.org/abs/2502.08056)|null|
