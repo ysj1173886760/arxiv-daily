@@ -28,3 +28,5 @@ keywords:
         filters: ["RAG AND Graph"]
     "Agent":
         filters: ["Agent AND LLM"]
+    "KG":
+        filters: ["knowledge-graph", "knowledge graph"]
