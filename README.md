@@ -1,4 +1,4 @@
-## Updated on 2025.02.19
+## Updated on 2025.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision**|Guangzhi Xiong et.al.|[2502.13957](http://arxiv.org/abs/2502.13957)|null|
+|**2025-02-19**|**DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue**|Feiyuan Zhang et.al.|[2502.13847](http://arxiv.org/abs/2502.13847)|null|
+|**2025-02-19**|**In-Place Updates of a Graph Index for Streaming Approximate Nearest Neighbor Search**|Haike Xu et.al.|[2502.13826](http://arxiv.org/abs/2502.13826)|null|
+|**2025-02-19**|**Are Large Language Models In-Context Graph Learners?**|Jintang Li et.al.|[2502.13562](http://arxiv.org/abs/2502.13562)|null|
+|**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|null|
+|**2025-02-19**|**What are Models Thinking about? Understanding Large Language Model Hallucinations "Psychology" through Model Inner State Analysis**|Peiran Wang et.al.|[2502.13490](http://arxiv.org/abs/2502.13490)|null|
+|**2025-02-19**|**HawkBench: Investigating Resilience of RAG Methods on Stratified Information-Seeking Tasks**|Hongjin Qian et.al.|[2502.13465](http://arxiv.org/abs/2502.13465)|null|
+|**2025-02-19**|**RGAR: Recurrence Generation-augmented Retrieval for Factual-aware Medical Question Answering**|Sichu Liang et.al.|[2502.13361](http://arxiv.org/abs/2502.13361)|null|
+|**2025-02-18**|**Language Models are Few-Shot Graders**|Chenyan Zhao et.al.|[2502.13337](http://arxiv.org/abs/2502.13337)|null|
+|**2025-02-18**|**SearchRAG: Can Search Engines Be Helpful for LLM-based Medical Question Answering?**|Yucheng Shi et.al.|[2502.13233](http://arxiv.org/abs/2502.13233)|null|
+|**2025-02-17**|**SmartLLM: Smart Contract Auditing using Custom Generative AI**|Jun Kevin et.al.|[2502.13167](http://arxiv.org/abs/2502.13167)|null|
 |**2025-02-18**|**Oreo: A Plug-in Context Reconstructor to Enhance Retrieval-Augmented Generation**|Sha Li et.al.|[2502.13019](http://arxiv.org/abs/2502.13019)|null|
 |**2025-02-18**|**Adaptive Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge**|Mohammad Reza Rezaei et.al.|[2502.13010](http://arxiv.org/abs/2502.13010)|null|
 |**2025-02-18**|**Infinite Retrieval: Attention Enhanced LLMs in Long-Context Processing**|Xiaoju Ye et.al.|[2502.12962](http://arxiv.org/abs/2502.12962)|null|
@@ -174,7 +185,7 @@
 |**2025-01-18**|**Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments**|Hongjin Su et.al.|[2501.10893](http://arxiv.org/abs/2501.10893)|null|
 |**2025-01-18**|**Visual RAG: Expanding MLLM visual knowledge without fine-tuning**|Mirco Bonomo et.al.|[2501.10834](http://arxiv.org/abs/2501.10834)|null|
 
-<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
 
 ## Agent
 
@@ -183,7 +194,7 @@
 |**2024-12-18**|**PersonaGym: Evaluating Persona Agents and LLMs**|Vinay Samuel et.al.|[2407.18416](http://arxiv.org/abs/2407.18416)|null|
 |**2024-10-09**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890](http://arxiv.org/abs/2406.13890)|**[link](https://github.com/weixiangyan/clinicallab)**|
 
-<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
 
 ## GraphRAG
 
@@ -191,7 +202,7 @@
 |---|---|---|---|---|
 |**2025-01-23**|**CAPRAG: A Large Language Model Solution for Customer Service and Automatic Reporting using Vector and Graph Retrieval-Augmented Generation**|Hamza Landolsi et.al.|[2501.13993](http://arxiv.org/abs/2501.13993)|null|
 
-<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
