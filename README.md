@@ -1,4 +1,4 @@
-## Updated on 2025.02.22
+## Updated on 2025.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,7 +16,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-20**|**Benchmarking Multimodal RAG through a Chart-based Document Question-Answering Generation Framework**|Yuming Yang et.al.|[2502.14864](http://arxiv.org/abs/2502.14864)|null|
-|**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|null|
+|**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|**[link](https://github.com/osu-nlp-group/hipporag)**|
 |**2025-02-20**|**On the Influence of Context Size and Model Choice in Retrieval-Augmented Generation Systems**|Juraj Vladika et.al.|[2502.14759](http://arxiv.org/abs/2502.14759)|null|
 |**2025-02-20**|**WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models**|Yifu Chen et.al.|[2502.14727](http://arxiv.org/abs/2502.14727)|null|
 |**2025-02-20**|**FIND: Fine-grained Information Density Guided Adaptive Retrieval-Augmented Generation for Disease Diagnosis**|Mingyi Jia et.al.|[2502.14614](http://arxiv.org/abs/2502.14614)|null|
@@ -27,7 +27,7 @@
 |**2025-02-19**|**DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue**|Feiyuan Zhang et.al.|[2502.13847](http://arxiv.org/abs/2502.13847)|null|
 |**2025-02-19**|**In-Place Updates of a Graph Index for Streaming Approximate Nearest Neighbor Search**|Haike Xu et.al.|[2502.13826](http://arxiv.org/abs/2502.13826)|null|
 |**2025-02-19**|**Are Large Language Models In-Context Graph Learners?**|Jintang Li et.al.|[2502.13562](http://arxiv.org/abs/2502.13562)|null|
-|**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|null|
+|**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|**[link](https://github.com/whichwhichgone/VLAS)**|
 |**2025-02-19**|**What are Models Thinking about? Understanding Large Language Model Hallucinations "Psychology" through Model Inner State Analysis**|Peiran Wang et.al.|[2502.13490](http://arxiv.org/abs/2502.13490)|null|
 |**2025-02-19**|**HawkBench: Investigating Resilience of RAG Methods on Stratified Information-Seeking Tasks**|Hongjin Qian et.al.|[2502.13465](http://arxiv.org/abs/2502.13465)|null|
 |**2025-02-19**|**RGAR: Recurrence Generation-augmented Retrieval for Factual-aware Medical Question Answering**|Sichu Liang et.al.|[2502.13361](http://arxiv.org/abs/2502.13361)|null|
@@ -194,7 +194,7 @@
 |**2025-01-18**|**Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments**|Hongjin Su et.al.|[2501.10893](http://arxiv.org/abs/2501.10893)|null|
 |**2025-01-18**|**Visual RAG: Expanding MLLM visual knowledge without fine-tuning**|Mirco Bonomo et.al.|[2501.10834](http://arxiv.org/abs/2501.10834)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## Agent
 
@@ -203,7 +203,7 @@
 |**2024-12-18**|**PersonaGym: Evaluating Persona Agents and LLMs**|Vinay Samuel et.al.|[2407.18416](http://arxiv.org/abs/2407.18416)|null|
 |**2024-10-09**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890](http://arxiv.org/abs/2406.13890)|**[link](https://github.com/weixiangyan/clinicallab)**|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## GraphRAG
 
@@ -211,25 +211,25 @@
 |---|---|---|---|---|
 |**2025-01-23**|**CAPRAG: A Large Language Model Solution for Customer Service and Automatic Reporting using Vector and Graph Retrieval-Augmented Generation**|Hamza Landolsi et.al.|[2501.13993](http://arxiv.org/abs/2501.13993)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## KG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|null|
+|**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|**[link](https://github.com/osu-nlp-group/hipporag)**|
 |**2025-02-20**|**Beyond the Surface: Uncovering Implicit Locations with LLMs for Personalized Local News**|Gali Katz et.al.|[2502.14660](http://arxiv.org/abs/2502.14660)|null|
 |**2025-02-20**|**Narrative-Driven Travel Planning: Geoculturally-Grounded Script Generation with Evolutionary Itinerary Optimization**|Ran Ding et.al.|[2502.14456](http://arxiv.org/abs/2502.14456)|null|
 |**2025-02-20**|**Fact or Guesswork? Evaluating Large Language Model's Medical Knowledge with Structured One-Hop Judgment**|Jiaxi Li et.al.|[2502.14275](http://arxiv.org/abs/2502.14275)|null|
 |**2025-02-20**|**NLP-AKG: Few-Shot Construction of NLP Academic Knowledge Graph Based on LLM**|Jiayin Lan et.al.|[2502.14192](http://arxiv.org/abs/2502.14192)|null|
 |**2025-02-19**|**Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning**|Cole Gawin et.al.|[2502.14086](http://arxiv.org/abs/2502.14086)|null|
-|**2025-02-19**|**Optimizing Research Portfolio For Semantic Impact**|Alexander V. Belikov et.al.|[2502.13912](http://arxiv.org/abs/2502.13912)|null|
+|**2025-02-19**|**Optimizing Research Portfolio For Semantic Impact**|Alexander V. Belikov et.al.|[2502.13912](http://arxiv.org/abs/2502.13912)|**[link](https://github.com/growgraph/xsi)**|
 |**2025-02-20**|**The KnowWhereGraph: A Large-Scale Geo-Knowledge Graph for Interdisciplinary Knowledge Discovery and Geo-Enrichment**|Rui Zhu et.al.|[2502.13874](http://arxiv.org/abs/2502.13874)|null|
 |**2025-02-19**|**Complex Ontology Matching with Large Language Model Embeddings**|Guilherme Sousa et.al.|[2502.13619](http://arxiv.org/abs/2502.13619)|null|
-|**2025-02-19**|**Democratizing Large Language Model-Based Graph Data Augmentation via Latent Knowledge Graphs**|Yushi Feng et.al.|[2502.13555](http://arxiv.org/abs/2502.13555)|null|
+|**2025-02-19**|**Democratizing Large Language Model-Based Graph Data Augmentation via Latent Knowledge Graphs**|Yushi Feng et.al.|[2502.13555](http://arxiv.org/abs/2502.13555)|**[link](https://github.com/ys-feng/DemoGraph)**|
 |**2025-02-19**|**Explore-Construct-Filter: An Automated Framework for Rich and Reliable API Knowledge Graph Construction**|Yanbang Sun et.al.|[2502.13412](http://arxiv.org/abs/2502.13412)|null|
 |**2025-02-19**|**Reducing Hallucinations in Language Model-based SPARQL Query Generation Using Post-Generation Memory Retrieval**|Aditya Sharma et.al.|[2502.13369](http://arxiv.org/abs/2502.13369)|null|
-|**2025-02-18**|**K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction**|Tassallah Abdullahi et.al.|[2502.13344](http://arxiv.org/abs/2502.13344)|null|
+|**2025-02-18**|**K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction**|Tassallah Abdullahi et.al.|[2502.13344](http://arxiv.org/abs/2502.13344)|**[link](https://github.com/rsinghlab/K-Paths)**|
 |**2025-02-18**|**How Expressive are Knowledge Graph Foundation Models?**|Xingyue Huang et.al.|[2502.13339](http://arxiv.org/abs/2502.13339)|null|
 |**2025-02-18**|**Grounding LLM Reasoning with Knowledge Graphs**|Alfonso Amayuelas et.al.|[2502.13247](http://arxiv.org/abs/2502.13247)|null|
 |**2025-02-18**|**Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**|Markus J. Buehler et.al.|[2502.13025](http://arxiv.org/abs/2502.13025)|null|
@@ -324,7 +324,7 @@
 |**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
 |**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|**[link](https://github.com/qinyuma316/retrosynthesisagent)**|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
