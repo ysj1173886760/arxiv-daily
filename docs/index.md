@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.23
+## Updated on 2025.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RAG
@@ -21,7 +21,7 @@ layout: default
 |**2025-02-19**|**DH-RAG: A Dynamic Historical Context-Powered Retrieval-Augmented Generation Method for Multi-Turn Dialogue**|Feiyuan Zhang et.al.|[2502.13847](http://arxiv.org/abs/2502.13847)|null|
 |**2025-02-19**|**In-Place Updates of a Graph Index for Streaming Approximate Nearest Neighbor Search**|Haike Xu et.al.|[2502.13826](http://arxiv.org/abs/2502.13826)|null|
 |**2025-02-19**|**Are Large Language Models In-Context Graph Learners?**|Jintang Li et.al.|[2502.13562](http://arxiv.org/abs/2502.13562)|null|
-|**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|**[link](https://github.com/whichwhichgone/VLAS)**|
+|**2025-02-21**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|**[link](https://github.com/whichwhichgone/VLAS)**|
 |**2025-02-19**|**What are Models Thinking about? Understanding Large Language Model Hallucinations "Psychology" through Model Inner State Analysis**|Peiran Wang et.al.|[2502.13490](http://arxiv.org/abs/2502.13490)|null|
 |**2025-02-19**|**HawkBench: Investigating Resilience of RAG Methods on Stratified Information-Seeking Tasks**|Hongjin Qian et.al.|[2502.13465](http://arxiv.org/abs/2502.13465)|null|
 |**2025-02-19**|**RGAR: Recurrence Generation-augmented Retrieval for Factual-aware Medical Question Answering**|Sichu Liang et.al.|[2502.13361](http://arxiv.org/abs/2502.13361)|null|
@@ -60,7 +60,7 @@ layout: default
 |**2025-02-15**|**NitiBench: A Comprehensive Studies of LLM Frameworks Capabilities for Thai Legal Question Answering**|Pawitsapak Akarajaradwong et.al.|[2502.10868](http://arxiv.org/abs/2502.10868)|null|
 |**2025-02-15**|**Improving Retrieval-Augmented Deep Assertion Generation via Joint Training**|Quanjun Zhang et.al.|[2502.10696](http://arxiv.org/abs/2502.10696)|null|
 |**2025-02-15**|**Dataset Protection via Watermarked Canaries in Retrieval-Augmented LLMs**|Yepeng Liu et.al.|[2502.10673](http://arxiv.org/abs/2502.10673)|null|
-|**2025-02-15**|**LLM-Lasso: A Robust Framework for Domain-Informed Feature Selection and Regularization**|Erica Zhang et.al.|[2502.10648](http://arxiv.org/abs/2502.10648)|null|
+|**2025-02-20**|**LLM-Lasso: A Robust Framework for Domain-Informed Feature Selection and Regularization**|Erica Zhang et.al.|[2502.10648](http://arxiv.org/abs/2502.10648)|null|
 |**2025-02-14**|**Post-training an LLM for RAG? Train on Self-Generated Demonstrations**|Matthew Finlayson et.al.|[2502.10596](http://arxiv.org/abs/2502.10596)|null|
 |**2025-02-14**|**Hallucinations and Truth: A Comprehensive Accuracy Evaluation of RAG, LoRA and DoRA**|Mohammad Baqar et.al.|[2502.10497](http://arxiv.org/abs/2502.10497)|null|
 |**2025-02-10**|**Towards Copyright Protection for Knowledge Bases of Retrieval-augmented Language Models via Ownership Verification with Reasoning**|Junfeng Guo et.al.|[2502.10440](http://arxiv.org/abs/2502.10440)|null|
