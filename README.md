@@ -8,6 +8,7 @@
     <li><a href=#agent>Agent</a></li>
     <li><a href=#graphrag>GraphRAG</a></li>
     <li><a href=#kg>KG</a></li>
+    <li><a href=#gfm>GFM</a></li>
   </ol>
 </details>
 
@@ -375,6 +376,113 @@
 |**2025-01-17**|**Decoding Patterns of Data Generation Teams for Clinical and Scientific Success: Insights from the Bridge2AI Talent Knowledge Graph**|Jiawei Xu et.al.|[2501.09897](http://arxiv.org/abs/2501.09897)|null|
 |**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
 |**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|**[link](https://github.com/qinyuma316/retrosynthesisagent)**|
+
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+
+## GFM
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-02-25**|**Neural Network Graph Similarity Computation Based on Graph Fusion**|Zenghui Chang et.al.|[2502.18291](http://arxiv.org/abs/2502.18291)|null|
+|**2025-02-20**|**Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks**|Maya Bechler-Speicher et.al.|[2502.14546](http://arxiv.org/abs/2502.14546)|null|
+|**2025-02-20**|**Spatial and Frequency Domain Adaptive Fusion Network for Image Deblurring**|Hu Gao et.al.|[2502.14209](http://arxiv.org/abs/2502.14209)|**[link](https://github.com/tombs98/sfafnet)**|
+|**2025-02-18**|**How Expressive are Knowledge Graph Foundation Models?**|Xingyue Huang et.al.|[2502.13339](http://arxiv.org/abs/2502.13339)|null|
+|**2025-02-17**|**Token Communications: A Unified Framework for Cross-modal Context-aware Semantic Communications**|Li Qiao et.al.|[2502.12096](http://arxiv.org/abs/2502.12096)|null|
+|**2025-02-13**|**AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection**|Hezhe Qiao et.al.|[2502.09254](http://arxiv.org/abs/2502.09254)|null|
+|**2025-02-17**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
+|**2025-02-09**|**A Grid-Forming HVDC Series Tapping Converter Using Extended Techniques of Flex-LCC**|Qianhao Sun et.al.|[2502.05842](http://arxiv.org/abs/2502.05842)|null|
+|**2025-02-08**|**SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation**|Xingtong Yu et.al.|[2502.05424](http://arxiv.org/abs/2502.05424)|null|
+|**2025-02-05**|**Omni-DNA: A Unified Genomic Foundation Model for Cross-Modal and Multi-Task Learning**|Zehui Li et.al.|[2502.03499](http://arxiv.org/abs/2502.03499)|null|
+|**2025-02-05**|**RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry**|Li Sun et.al.|[2502.03251](http://arxiv.org/abs/2502.03251)|null|
+|**2025-02-04**|**Flatten Graphs as Sequences: Transformers are Scalable Graph Generators**|Dexiong Chen et.al.|[2502.02216](http://arxiv.org/abs/2502.02216)|null|
+|**2025-02-04**|**Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment**|Shuo Wang et.al.|[2502.02017](http://arxiv.org/abs/2502.02017)|null|
+|**2025-02-03**|**GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation**|Linhao Luo et.al.|[2502.01113](http://arxiv.org/abs/2502.01113)|**[link](https://github.com/RManLuo/gfm-rag)**|
+|**2025-02-02**|**A Comprehensive Analysis on LLM-based Node Classification Algorithms**|Xixi Wu et.al.|[2502.00829](http://arxiv.org/abs/2502.00829)|null|
+|**2025-02-02**|**UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs**|Yufei He et.al.|[2502.00806](http://arxiv.org/abs/2502.00806)|null|
+|**2025-01-30**|**Impedance Trajectory Analysis during Power Swing for Grid-Forming Inverter with Different Current Limiters**|Yanshu Niu et.al.|[2501.18063](http://arxiv.org/abs/2501.18063)|null|
+|**2025-01-21**|**How Does the Spatial Distribution of Pre-training Data Affect Geospatial Foundation Models?**|Mirali Purohit et.al.|[2501.12535](http://arxiv.org/abs/2501.12535)|null|
+|**2025-01-20**|**Large deviations for sticky-reflecting Brownian motion with boundary diffusion**|Jean-Baptiste Casteras et.al.|[2501.11394](http://arxiv.org/abs/2501.11394)|null|
+|**2025-01-10**|**On the Interaction in Transient Stability of Two-Inverter Power Systems containing GFL inverter Using Manifold Method**|Yifan Zhang et.al.|[2501.05994](http://arxiv.org/abs/2501.05994)|null|
+|**2024-12-31**|**A Universal Controller for Grid-Tied Inverters**|Fariba Fateh et.al.|[2501.00249](http://arxiv.org/abs/2501.00249)|null|
+|**2024-12-30**|**Toward Intelligent and Secure Cloud: Large Language Model Empowered Proactive Defense**|Yuyang Zhou et.al.|[2412.21051](http://arxiv.org/abs/2412.21051)|**[link](https://github.com/SEU-ProactiveSecurity-Group/LLM-PD)**|
+|**2024-12-24**|**GDM4MMIMO: Generative Diffusion Models for Massive MIMO Communications**|Zhenzhou Jin et.al.|[2412.18281](http://arxiv.org/abs/2412.18281)|null|
+|**2024-12-23**|**Towards Foundation Models on Graphs: An Analysis on Cross-Dataset Transfer of Pretrained GNNs**|Fabrizio Frasca et.al.|[2412.17609](http://arxiv.org/abs/2412.17609)|null|
+|**2025-01-30**|**Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees**|Zehong Wang et.al.|[2412.16441](http://arxiv.org/abs/2412.16441)|null|
+|**2024-12-19**|**Unified Control Scheme for Optimal Allocation of GFM and GFL Inverters in Power Networks**|Sushobhan Chatterjee et.al.|[2412.15446](http://arxiv.org/abs/2412.15446)|null|
+|**2024-12-19**|**IOHunter: Graph Foundation Model to Uncover Online Information Operations**|Marco Minici et.al.|[2412.14663](http://arxiv.org/abs/2412.14663)|**[link](https://github.com/mminici/socgfm)**|
+|**2024-12-15**|**GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts**|Zihao Guo et.al.|[2412.11085](http://arxiv.org/abs/2412.11085)|**[link](https://github.com/ringbdstack/graphmore)**|
+|**2024-12-11**|**A Survey of Open-Source Power System Dynamic Simulators with Grid-Forming Inverter for Machine Learning Applications**|Tong Su et.al.|[2412.08065](http://arxiv.org/abs/2412.08065)|null|
+|**2024-12-10**|**Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings**|Billy Joe Franks et.al.|[2412.07407](http://arxiv.org/abs/2412.07407)|null|
+|**2024-12-08**|**f-P vs P-f based Grid-forming Control under RoCoF Event Considering Power and Energy Limits**|Chu Sun et.al.|[2412.05769](http://arxiv.org/abs/2412.05769)|null|
+|**2024-12-05**|**PANGAEA: A Global and Inclusive Benchmark for Geospatial Foundation Models**|Valerio Marsocci et.al.|[2412.04204](http://arxiv.org/abs/2412.04204)|**[link](https://github.com/vmarsocci/pangaea-bench)**|
+|**2024-11-19**|**Distributed Coordination of Grid-Forming and Grid-Following Inverter-Based Resources for Optimal Frequency Control in Power Systems**|Xiaoyang Wang et.al.|[2411.12682](http://arxiv.org/abs/2411.12682)|null|
+|**2024-11-15**|**DiffFNO: Diffusion Fourier Neural Operator**|Xiaoyi Liu et.al.|[2411.09911](http://arxiv.org/abs/2411.09911)|null|
+|**2024-11-10**|**Local vs. Global Models for Hierarchical Forecasting**|Zhao Yingjie et.al.|[2411.06394](http://arxiv.org/abs/2411.06394)|null|
+|**2024-11-09**|**GFT: Graph Foundation Model with Transferable Tree Vocabulary**|Zehong Wang et.al.|[2411.06070](http://arxiv.org/abs/2411.06070)|**[link](https://github.com/zehong-wang/gft)**|
+|**2024-11-07**|**Voltage Support Capability Analysis of Grid-Forming Inverters with Current-Limiting Control Under Asymmetrical Grid Faults**|Han Zhang et.al.|[2411.04864](http://arxiv.org/abs/2411.04864)|null|
+|**2024-11-06**|**Dynamic Virtual Inertia and Damping Control for Zero-Inertia Grids**|Oleg O. Khamisov et.al.|[2411.03998](http://arxiv.org/abs/2411.03998)|null|
+|**2024-12-07**|**RAGraph: A General Retrieval-Augmented Graph Learning Framework**|Xinke Jiang et.al.|[2410.23855](http://arxiv.org/abs/2410.23855)|**[link](https://github.com/artessay/ragraph)**|
+|**2024-10-22**|**Empowering the Grid: Decentralized Autonomous Control for Effective Utilization and Resilience**|Sai Pushpak Nandanoori et.al.|[2410.17143](http://arxiv.org/abs/2410.17143)|null|
+|**2024-10-19**|**LangGFM: A Large Language Model Alone Can be a Powerful Graph Foundation Model**|Tianqianjin Lin et.al.|[2410.14961](http://arxiv.org/abs/2410.14961)|null|
+|**2024-10-18**|**Grid-Forming Control of Modular Dynamic Virtual Power Plants**|Xiuqiang He et.al.|[2410.14912](http://arxiv.org/abs/2410.14912)|null|
+|**2024-10-18**|**Coordinated Frequency Regulation in Grid-Forming Storage Network via Safety-Consensus**|Ramij Raja Hossain et.al.|[2410.14877](http://arxiv.org/abs/2410.14877)|null|
+|**2024-10-16**|**Towards Graph Foundation Models: The Perspective of Zero-shot Reasoning on Knowledge Graphs**|Kai Wang et.al.|[2410.12609](http://arxiv.org/abs/2410.12609)|null|
+|**2024-10-16**|**A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning**|Yuanning Cui et.al.|[2410.12288](http://arxiv.org/abs/2410.12288)|**[link](https://github.com/nju-websoft/KG-ICL)**|
+|**2024-10-15**|**Enhance Graph Alignment for Large Language Models**|Haitong Luo et.al.|[2410.11370](http://arxiv.org/abs/2410.11370)|null|
+|**2025-02-24**|**GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs**|Yun Zhu et.al.|[2410.10329](http://arxiv.org/abs/2410.10329)|**[link](https://github.com/zhuyun97/graphclip)**|
+|**2024-10-11**|**Multi-Mode Inverters: A Unified Control Design for Grid-Forming, Grid-Following, and Beyond**|Alireza Askarian et.al.|[2410.08433](http://arxiv.org/abs/2410.08433)|null|
+|**2024-10-02**|**OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models**|Heng Yang et.al.|[2410.01784](http://arxiv.org/abs/2410.01784)|**[link](https://github.com/yangheng95/OmniGenomeBench)**|
+|**2024-10-01**|**An Extended Admittance Modeling Method with Synchronization Node for Stability Assessment of Converters-Interlinked System**|Haoxiang Zong et.al.|[2410.00619](http://arxiv.org/abs/2410.00619)|null|
+|**2024-09-30**|**A Plug and Play Distributed Secondary Controller for Microgrids with Grid-Forming Inverters**|Vivek Khatana et.al.|[2409.19866](http://arxiv.org/abs/2409.19866)|null|
+|**2024-09-27**|**Range-aware Positional Encoding via High-order Pretraining: Theory and Practice**|Viet Anh Nguyen et.al.|[2409.19117](http://arxiv.org/abs/2409.19117)|null|
+|**2024-09-17**|**Improved Dynamic Response in Grid-Forming Converters with Current Limiting Control during Fault Conditions**|Somayeh Mehri Boroojeni et.al.|[2409.11548](http://arxiv.org/abs/2409.11548)|null|
+|**2024-08-31**|**Geospatial foundation models for image analysis: evaluating and enhancing NASA-IBM Prithvi's domain adaptability**|Chia-Yu Hsu et.al.|[2409.00489](http://arxiv.org/abs/2409.00489)|null|
+|**2024-11-11**|**Dual Grid-Forming Converter**|Federico Milano et.al.|[2408.13185](http://arxiv.org/abs/2408.13185)|null|
+|**2024-08-21**|**High-Dimensional Overdispersed Generalized Factor Model with Application to Single-Cell Sequencing Data Analysis**|Jinyu Nie et.al.|[2408.11272](http://arxiv.org/abs/2408.11272)|**[link](https://github.com/feiyoung/GFM)**|
+|**2024-08-26**|**Do Neural Scaling Laws Exist on Graph Self-Supervised Learning?**|Qian Ma et.al.|[2408.11243](http://arxiv.org/abs/2408.11243)|null|
+|**2024-08-20**|**AnyGraph: Graph Foundation Model in the Wild**|Lianghao Xia et.al.|[2408.10700](http://arxiv.org/abs/2408.10700)|**[link](https://github.com/hkuds/anygraph)**|
+|**2024-07-29**|**Boosting Graph Foundation Model from Structural Perspective**|Yao Cheng et.al.|[2407.19941](http://arxiv.org/abs/2407.19941)|null|
+|**2024-12-05**|**GV-Rep: A Large-Scale Dataset for Genetic Variant Representation Learning**|Zehui Li et.al.|[2407.16940](http://arxiv.org/abs/2407.16940)|**[link](https://github.com/bowang-lab/genomic-fm)**|
+|**2024-07-16**|**GraphFM: A Scalable Framework for Multi-Graph Pretraining**|Divyansha Lachi et.al.|[2407.11907](http://arxiv.org/abs/2407.11907)|null|
+|**2024-07-12**|**GOFA: A Generative One-For-All Model for Joint Graph Language Modeling**|Lecheng Kong et.al.|[2407.09709](http://arxiv.org/abs/2407.09709)|**[link](https://github.com/jiaruifeng/gofa)**|
+|**2024-10-19**|**TAGLAS: An atlas of text-attributed graph datasets in the era of large graph and language models**|Jiarui Feng et.al.|[2406.14683](http://arxiv.org/abs/2406.14683)|**[link](https://github.com/jiaruifeng/taglas)**|
+|**2024-11-01**|**Scalable Training of Trustworthy and Energy-Efficient Predictive Graph Foundation Models for Atomistic Materials Modeling: A Case Study with HydraGNN**|Massimiliano Lupo Pasini et.al.|[2406.12909](http://arxiv.org/abs/2406.12909)|null|
+|**2024-06-16**|**Statistical Considerations for Evaluating Treatment Effect under Various Non-proportional Hazard Scenarios**|Xinyu Zhang et.al.|[2406.11043](http://arxiv.org/abs/2406.11043)|null|
+|**2024-06-15**|**Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights**|Zhikai Chen et.al.|[2406.10727](http://arxiv.org/abs/2406.10727)|**[link](https://github.com/currytang/tsgfm)**|
+|**2025-02-15**|**MiNT: Multi-Network Training for Transfer Learning on Temporal Graphs**|Kiarash Shamsi et.al.|[2406.10426](http://arxiv.org/abs/2406.10426)|**[link](https://github.com/benjaminnNgo/ScalingTGNs)**|
+|**2024-06-14**|**GraphFM: A Comprehensive Benchmark for Graph Foundation Model**|Yuhao Xu et.al.|[2406.08310](http://arxiv.org/abs/2406.08310)|null|
+|**2024-06-07**|**CTSyn: A Foundational Model for Cross Tabular Data Generation**|Xiaofeng Lin et.al.|[2406.04619](http://arxiv.org/abs/2406.04619)|null|
+|**2024-06-05**|**GenBench: A Benchmarking Suite for Systematic Evaluation of Genomic Foundation Models**|Zicheng Liu et.al.|[2406.01627](http://arxiv.org/abs/2406.01627)|**[link](https://github.com/jimmylihui/OpenGenome)**|
+|**2024-05-28**|**MAVIN: Multi-Action Video Generation with Diffusion Models via Transition Video Infilling**|Bowen Zhang et.al.|[2405.18003](http://arxiv.org/abs/2405.18003)|**[link](https://github.com/18445864529/mavin)**|
+|**2024-05-23**|**Black Start Operation of Grid-Forming Converters Based on Generalized Three-phase Droop Control Under Unbalanced Conditions**|Zexian Zeng et.al.|[2405.14964](http://arxiv.org/abs/2405.14964)|null|
+|**2024-09-22**|**Text-Free Multi-domain Graph Pre-training: Toward Graph Foundation Models**|Xingtong Yu et.al.|[2405.13934](http://arxiv.org/abs/2405.13934)|null|
+|**2024-05-15**|**Structural Impact of Grid-Forming Inverters on Power System Coherency**|Sayak Mukherjee et.al.|[2405.09675](http://arxiv.org/abs/2405.09675)|null|
+|**2024-05-09**|**Impact of current limiters and fast voltage boosters in grid-forming VSC-based generators on transient stability**|Régulo E. Ávila-Martínez et.al.|[2405.06103](http://arxiv.org/abs/2405.06103)|null|
+|**2024-05-08**|**Functional Specifications and Testing Requirements of Grid-Forming Type-IV Offshore Wind Power**|Sulav Ghimire et.al.|[2405.05030](http://arxiv.org/abs/2405.05030)|null|
+|**2024-11-04**|**GSCo: Towards Generalizable AI in Medicine via Generalist-Specialist Collaboration**|Sunan He et.al.|[2404.15127](http://arxiv.org/abs/2404.15127)|**[link](https://github.com/sunanhe/meddr)**|
+|**2024-10-10**|**Coordinated Planning for Stability Enhancement in High IBR-Penetrated Systems**|Zhongda Chu et.al.|[2404.14012](http://arxiv.org/abs/2404.14012)|null|
+|**2024-09-11**|**On the Scalability of GNNs for Molecular Graphs**|Maciej Sypetkowski et.al.|[2404.11568](http://arxiv.org/abs/2404.11568)|null|
+|**2024-03-27**|**Ensuring Disturbance Rejection Performance by Synthesizing Grid-Following and Grid-Forming Inverters in Power Systems**|Fuyilong Ma et.al.|[2403.16488](http://arxiv.org/abs/2403.16488)|null|
+|**2024-07-31**|**A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective**|Ziwen Zhao et.al.|[2403.16137](http://arxiv.org/abs/2403.16137)|**[link](https://github.com/newiz430/pretext)**|
+|**2024-03-22**|**Control Designs for Critical-Continegency Responsible Grid-Following Inverters and Seamless Transitions To and From Grid-Forming Modes**|Jaesang Park et.al.|[2403.15380](http://arxiv.org/abs/2403.15380)|null|
+|**2024-03-16**|**Frequency-Reactive Power Optimization Strategy of Grid-forming Offshore Wind Farm Using DRU-HVDC Transmission**|Zhekai Li et.al.|[2403.10797](http://arxiv.org/abs/2403.10797)|null|
+|**2024-03-12**|**Towards Graph Foundation Models for Personalization**|Andreas Damianou et.al.|[2403.07478](http://arxiv.org/abs/2403.07478)|null|
+|**2024-10-01**|**Modeling Fault Recovery and Transient Stability of Grid-Forming Converters Equipped With Current Reference Limitation**|Ali Arjomandi-Nezhad et.al.|[2403.05236](http://arxiv.org/abs/2403.05236)|null|
+|**2024-03-04**|**Unveiling Hidden Links Between Unseen Security Entities**|Daniel Alfasi et.al.|[2403.02014](http://arxiv.org/abs/2403.02014)|null|
+|**2024-10-09**|**OpenGraph: Towards Open Graph Foundation Models**|Lianghao Xia et.al.|[2403.01121](http://arxiv.org/abs/2403.01121)|**[link](https://github.com/hkuds/opengraph)**|
+|**2024-02-22**|**Low-frequency Resonances in Grid-Forming Converters: Causes and Damping Control**|Fangzhou Zhao et.al.|[2402.14543](http://arxiv.org/abs/2402.14543)|null|
+|**2024-02-22**|**Oscillations between Grid-Forming Converters in Weakly Connected Offshore WPPs**|Sulav Ghimire et.al.|[2402.14317](http://arxiv.org/abs/2402.14317)|null|
+|**2024-06-24**|**ZeroG: Investigating Cross-dataset Zero-shot Transferability in Graphs**|Yuhan Li et.al.|[2402.11235](http://arxiv.org/abs/2402.11235)|**[link](https://github.com/nineabyss/zerog)**|
+|**2024-06-22**|**All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining**|Haihong Zhao et.al.|[2402.09834](http://arxiv.org/abs/2402.09834)|**[link](https://github.com/cshhzhao/gcope)**|
+|**2024-05-30**|**Position: Graph Foundation Models are Already Here**|Haitao Mao et.al.|[2402.02216](http://arxiv.org/abs/2402.02216)|**[link](https://github.com/currytang/towards-graph-foundation-models-new-perspective-)**|
+|**2024-02-02**|**Active Support of Inverters for Improving Short-Term Voltage Security in 100% IBRsPenetrated Power Systems**|Yinhong Lin et.al.|[2402.01523](http://arxiv.org/abs/2402.01523)|null|
+|**2024-01-19**|**Machine learning classification of power converter control mode**|Rabah Ouali et.al.|[2401.10959](http://arxiv.org/abs/2401.10959)|null|
+|**2024-01-05**|**A full-time scale energy management and battery size optimization for off-grid renewable power to hydrogen systems: A battery energy storage-based grid-forming case in Inner Mongolian**|Jie Zhu et.al.|[2401.02670](http://arxiv.org/abs/2401.02670)|null|
+|**2025-02-06**|**GraphGPT: Generative Pre-trained Graph Eulerian Transformer**|Qifang Zhao et.al.|[2401.00529](http://arxiv.org/abs/2401.00529)|**[link](https://github.com/alibaba/graph-gpt)**|
+|**2023-12-17**|**Risk-Constrained Reinforcement Learning for Inverter-Dominated Power System Controls**|Kyung-bin Kwon et.al.|[2312.10635](http://arxiv.org/abs/2312.10635)|null|
+|**2024-03-22**|**SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery**|Xin Guo et.al.|[2312.10115](http://arxiv.org/abs/2312.10115)|null|
+|**2024-11-18**|**Image Demoireing in RAW and sRGB Domains**|Shuning Xu et.al.|[2312.09063](http://arxiv.org/abs/2312.09063)|**[link](https://github.com/rebeccaeexu/RRID)**|
+|**2023-11-21**|**Resilient Control of Networked Microgrids using Vertical Federated Reinforcement Learning: Designs and Real-Time Test-Bed Validations**|Sayak Mukherjee et.al.|[2311.12264](http://arxiv.org/abs/2311.12264)|null|
 
 <p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
