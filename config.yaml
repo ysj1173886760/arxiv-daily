@@ -30,3 +30,5 @@ keywords:
         filters: ["Agent AND LLM"]
     "KG":
         filters: ["knowledge-graph", "knowledge graph"]
+    "GFM":
+        filters: ["Graph Foundation Model", "GFM", "graph foundation model"]
