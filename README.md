@@ -1,4 +1,4 @@
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -232,7 +232,7 @@
 |**2025-01-18**|**Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments**|Hongjin Su et.al.|[2501.10893](http://arxiv.org/abs/2501.10893)|null|
 |**2025-01-18**|**Visual RAG: Expanding MLLM visual knowledge without fine-tuning**|Mirco Bonomo et.al.|[2501.10834](http://arxiv.org/abs/2501.10834)|null|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 ## Agent
 
@@ -241,7 +241,7 @@
 |**2024-12-18**|**PersonaGym: Evaluating Persona Agents and LLMs**|Vinay Samuel et.al.|[2407.18416](http://arxiv.org/abs/2407.18416)|null|
 |**2024-10-09**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890](http://arxiv.org/abs/2406.13890)|**[link](https://github.com/weixiangyan/clinicallab)**|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 ## GraphRAG
 
@@ -250,7 +250,7 @@
 |**2025-01-06**|**Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines**|Abdul M. Mohammed et.al.|[2502.15698](http://arxiv.org/abs/2502.15698)|null|
 |**2025-01-23**|**CAPRAG: A Large Language Model Solution for Customer Service and Automatic Reporting using Vector and Graph Retrieval-Augmented Generation**|Hamza Landolsi et.al.|[2501.13993](http://arxiv.org/abs/2501.13993)|null|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 ## KG
 
@@ -260,7 +260,7 @@
 |**2025-02-25**|**Quantum negative sampling strategy for knowledge graph embedding with variational circuit**|Pulak Ranjan Giri et.al.|[2502.17973](http://arxiv.org/abs/2502.17973)|null|
 |**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
 |**2025-02-24**|**An Enhanced Large Language Model For Cross Modal Query Understanding System Using DL-KeyBERT Based CAZSSCL-MPGPT**|Shreya Singh et.al.|[2502.17000](http://arxiv.org/abs/2502.17000)|null|
-|**2025-02-24**|**SparseTransX: Efficient Training of Translation-Based Knowledge Graph Embeddings Using Sparse Matrix Operations**|Md Saidul Hoque Anik et.al.|[2502.16949](http://arxiv.org/abs/2502.16949)|null|
+|**2025-02-26**|**SparseTransX: Efficient Training of Translation-Based Knowledge Graph Embeddings Using Sparse Matrix Operations**|Md Saidul Hoque Anik et.al.|[2502.16949](http://arxiv.org/abs/2502.16949)|null|
 |**2025-02-23**|**Few-shot Continual Relation Extraction via Open Information Extraction**|Thiem Nguyen et.al.|[2502.16648](http://arxiv.org/abs/2502.16648)|null|
 |**2025-02-23**|**GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking**|Yingjian Chen et.al.|[2502.16514](http://arxiv.org/abs/2502.16514)|null|
 |**2025-02-23**|**A Fine-Tuning Approach for T5 Using Knowledge Graphs to Address Complex Tasks**|Xiaoxuan Liao et.al.|[2502.16484](http://arxiv.org/abs/2502.16484)|null|
@@ -272,7 +272,7 @@
 |**2025-02-20**|**Learning to Retrieve and Reason on Knowledge Graph through Active Self-Reflection**|Han Zhang et.al.|[2502.14932](http://arxiv.org/abs/2502.14932)|null|
 |**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|**[link](https://github.com/osu-nlp-group/hipporag)**|
 |**2025-02-20**|**Beyond the Surface: Uncovering Implicit Locations with LLMs for Personalized Local News**|Gali Katz et.al.|[2502.14660](http://arxiv.org/abs/2502.14660)|null|
-|**2025-02-20**|**Narrative-Driven Travel Planning: Geoculturally-Grounded Script Generation with Evolutionary Itinerary Optimization**|Ran Ding et.al.|[2502.14456](http://arxiv.org/abs/2502.14456)|null|
+|**2025-02-26**|**Narrative-Driven Travel Planning: Geoculturally-Grounded Script Generation with Evolutionary Itinerary Optimization**|Ran Ding et.al.|[2502.14456](http://arxiv.org/abs/2502.14456)|null|
 |**2025-02-20**|**Fact or Guesswork? Evaluating Large Language Model's Medical Knowledge with Structured One-Hop Judgment**|Jiaxi Li et.al.|[2502.14275](http://arxiv.org/abs/2502.14275)|null|
 |**2025-02-20**|**NLP-AKG: Few-Shot Construction of NLP Academic Knowledge Graph Based on LLM**|Jiayin Lan et.al.|[2502.14192](http://arxiv.org/abs/2502.14192)|null|
 |**2025-02-19**|**Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning**|Cole Gawin et.al.|[2502.14086](http://arxiv.org/abs/2502.14086)|null|
@@ -377,7 +377,7 @@
 |**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
 |**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|**[link](https://github.com/qinyuma316/retrosynthesisagent)**|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 ## GFM
 
@@ -484,7 +484,7 @@
 |**2024-11-18**|**Image Demoireing in RAW and sRGB Domains**|Shuning Xu et.al.|[2312.09063](http://arxiv.org/abs/2312.09063)|**[link](https://github.com/rebeccaeexu/RRID)**|
 |**2023-11-21**|**Resilient Control of Networked Microgrids using Vertical Federated Reinforcement Learning: Designs and Real-Time Test-Bed Validations**|Sayak Mukherjee et.al.|[2311.12264](http://arxiv.org/abs/2311.12264)|null|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

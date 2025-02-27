@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RAG
@@ -247,7 +247,7 @@ layout: default
 |**2025-02-25**|**Quantum negative sampling strategy for knowledge graph embedding with variational circuit**|Pulak Ranjan Giri et.al.|[2502.17973](http://arxiv.org/abs/2502.17973)|null|
 |**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
 |**2025-02-24**|**An Enhanced Large Language Model For Cross Modal Query Understanding System Using DL-KeyBERT Based CAZSSCL-MPGPT**|Shreya Singh et.al.|[2502.17000](http://arxiv.org/abs/2502.17000)|null|
-|**2025-02-24**|**SparseTransX: Efficient Training of Translation-Based Knowledge Graph Embeddings Using Sparse Matrix Operations**|Md Saidul Hoque Anik et.al.|[2502.16949](http://arxiv.org/abs/2502.16949)|null|
+|**2025-02-26**|**SparseTransX: Efficient Training of Translation-Based Knowledge Graph Embeddings Using Sparse Matrix Operations**|Md Saidul Hoque Anik et.al.|[2502.16949](http://arxiv.org/abs/2502.16949)|null|
 |**2025-02-23**|**Few-shot Continual Relation Extraction via Open Information Extraction**|Thiem Nguyen et.al.|[2502.16648](http://arxiv.org/abs/2502.16648)|null|
 |**2025-02-23**|**GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking**|Yingjian Chen et.al.|[2502.16514](http://arxiv.org/abs/2502.16514)|null|
 |**2025-02-23**|**A Fine-Tuning Approach for T5 Using Knowledge Graphs to Address Complex Tasks**|Xiaoxuan Liao et.al.|[2502.16484](http://arxiv.org/abs/2502.16484)|null|
@@ -259,7 +259,7 @@ layout: default
 |**2025-02-20**|**Learning to Retrieve and Reason on Knowledge Graph through Active Self-Reflection**|Han Zhang et.al.|[2502.14932](http://arxiv.org/abs/2502.14932)|null|
 |**2025-02-20**|**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2502.14802](http://arxiv.org/abs/2502.14802)|**[link](https://github.com/osu-nlp-group/hipporag)**|
 |**2025-02-20**|**Beyond the Surface: Uncovering Implicit Locations with LLMs for Personalized Local News**|Gali Katz et.al.|[2502.14660](http://arxiv.org/abs/2502.14660)|null|
-|**2025-02-20**|**Narrative-Driven Travel Planning: Geoculturally-Grounded Script Generation with Evolutionary Itinerary Optimization**|Ran Ding et.al.|[2502.14456](http://arxiv.org/abs/2502.14456)|null|
+|**2025-02-26**|**Narrative-Driven Travel Planning: Geoculturally-Grounded Script Generation with Evolutionary Itinerary Optimization**|Ran Ding et.al.|[2502.14456](http://arxiv.org/abs/2502.14456)|null|
 |**2025-02-20**|**Fact or Guesswork? Evaluating Large Language Model's Medical Knowledge with Structured One-Hop Judgment**|Jiaxi Li et.al.|[2502.14275](http://arxiv.org/abs/2502.14275)|null|
 |**2025-02-20**|**NLP-AKG: Few-Shot Construction of NLP Academic Knowledge Graph Based on LLM**|Jiayin Lan et.al.|[2502.14192](http://arxiv.org/abs/2502.14192)|null|
 |**2025-02-19**|**Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning**|Cole Gawin et.al.|[2502.14086](http://arxiv.org/abs/2502.14086)|null|
