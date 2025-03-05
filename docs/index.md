@@ -2,15 +2,26 @@
 layout: default
 ---
 
-## Updated on 2025.03.03
+## Updated on 2025.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RAG
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**RuCCoD: Towards Automated ICD Coding in Russian**|Aleksandr Nesterov et.al.|[2502.21263](http://arxiv.org/abs/2502.21263)|null|
+|**2025-02-28**|**PASemiQA: Plan-Assisted Agent for Question Answering on Semi-Structured Data with Text and Relational Information**|Hansi Yang et.al.|[2502.21087](http://arxiv.org/abs/2502.21087)|null|
+|**2025-02-28**|**The RAG Paradox: A Black-Box Attack Exploiting Unintentional Vulnerabilities in Retrieval-Augmented Generation Systems**|Chanwoo Choi et.al.|[2502.20995](http://arxiv.org/abs/2502.20995)|null|
+|**2025-02-28**|**TeleRAG: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval**|Chien-Yu Lin et.al.|[2502.20969](http://arxiv.org/abs/2502.20969)|null|
+|**2025-02-28**|**Fine-Grained Retrieval-Augmented Generation for Visual Question Answering**|Zhengxuan Zhang et.al.|[2502.20964](http://arxiv.org/abs/2502.20964)|null|
+|**2025-02-28**|**Retrieval Augmented Generation for Topic Modeling in Organizational Research: An Introduction with Empirical Demonstration**|Gerion Spielberger et.al.|[2502.20963](http://arxiv.org/abs/2502.20963)|null|
+|**2025-03-03**|**A Pilot Empirical Study on When and How to Use Knowledge Graphs as Retrieval Augmented Generation**|Xujie Yuan et.al.|[2502.20854](http://arxiv.org/abs/2502.20854)|null|
+|**2025-02-28**|**DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking**|Zhuoqun Li et.al.|[2502.20730](http://arxiv.org/abs/2502.20730)|null|
+|**2025-02-28**|**LexRAG: Benchmarking Retrieval-Augmented Generation in Multi-Turn Legal Consultation Conversation**|Haitao Li et.al.|[2502.20640](http://arxiv.org/abs/2502.20640)|null|
+|**2025-02-28**|**PersonaBench: Evaluating AI Models on Understanding Personal Information through Accessing (Synthetic) Private User Data**|Juntao Tan et.al.|[2502.20616](http://arxiv.org/abs/2502.20616)|null|
+|**2025-02-27**|**NANOGPT: A Query-Driven Large Language Model Retrieval-Augmented Generation System for Nanotechnology Research**|Achuth Chandrasekhar et.al.|[2502.20541](http://arxiv.org/abs/2502.20541)|null|
 |**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364](http://arxiv.org/abs/2502.20364)|null|
-|**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|null|
+|**2025-02-27**|**Long-Context Inference with Retrieval-Augmented Speculative Decoding**|Guanzheng Chen et.al.|[2502.20330](http://arxiv.org/abs/2502.20330)|**[link](https://github.com/john-ai-lab/rapid)**|
 |**2025-02-27**|**ChineseEcomQA: A Scalable E-commerce Concept Evaluation Benchmark for Large Language Models**|Haibin Chen et.al.|[2502.20196](http://arxiv.org/abs/2502.20196)|null|
 |**2025-02-27**|**Bisecting K-Means in RAG for Enhancing Question-Answering Tasks Performance in Telecommunications**|Pedro Sousa et.al.|[2502.20188](http://arxiv.org/abs/2502.20188)|null|
 |**2025-02-27**|**LLM-driven Effective Knowledge Tracing by Integrating Dual-channel Difficulty**|Jiahui Cen et.al.|[2502.19915](http://arxiv.org/abs/2502.19915)|null|
@@ -259,15 +270,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Predicting clinical outcomes from patient care pathways represented with temporal knowledge graphs**|Jong Ho Jhee et.al.|[2502.21138](http://arxiv.org/abs/2502.21138)|null|
+|**2025-02-28**|**PASemiQA: Plan-Assisted Agent for Question Answering on Semi-Structured Data with Text and Relational Information**|Hansi Yang et.al.|[2502.21087](http://arxiv.org/abs/2502.21087)|null|
+|**2025-02-28**|**Merging Clinical Knowledge into Large Language Models for Medical Research and Applications: A Survey**|Qiyuan Li et.al.|[2502.20988](http://arxiv.org/abs/2502.20988)|null|
+|**2025-03-03**|**A Pilot Empirical Study on When and How to Use Knowledge Graphs as Retrieval Augmented Generation**|Xujie Yuan et.al.|[2502.20854](http://arxiv.org/abs/2502.20854)|null|
 |**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364](http://arxiv.org/abs/2502.20364)|null|
 |**2025-02-27**|**KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model**|Kai Zhang et.al.|[2502.20350](http://arxiv.org/abs/2502.20350)|null|
 |**2025-02-27**|**Knowledge Bridger: Towards Training-free Missing Multi-modality Completion**|Guanzhou Ke et.al.|[2502.19834](http://arxiv.org/abs/2502.19834)|null|
-|**2025-02-26**|**TRIX: A More Expressive Model for Zero-shot Domain Transfer in Knowledge Graphs**|Yucheng Zhang et.al.|[2502.19512](http://arxiv.org/abs/2502.19512)|null|
+|**2025-02-26**|**TRIX: A More Expressive Model for Zero-shot Domain Transfer in Knowledge Graphs**|Yucheng Zhang et.al.|[2502.19512](http://arxiv.org/abs/2502.19512)|**[link](https://github.com/yuchengz99/trix)**|
 |**2025-02-26**|**Building Knowledge Graphs Towards a Global Food Systems Datahub**|Nirmal Gelal et.al.|[2502.19507](http://arxiv.org/abs/2502.19507)|null|
-|**2025-02-26**|**Corporate Fraud Detection in Rich-yet-Noisy Financial Graph**|Shiqi Wang et.al.|[2502.19305](http://arxiv.org/abs/2502.19305)|null|
+|**2025-02-26**|**Corporate Fraud Detection in Rich-yet-Noisy Financial Graph**|Shiqi Wang et.al.|[2502.19305](http://arxiv.org/abs/2502.19305)|**[link](https://github.com/wangskyGit/KeHGN-R)**|
 |**2025-02-26**|**Dealing with Inconsistency for Reasoning over Knowledge Graphs: A Survey**|Anastasios Nentidis et.al.|[2502.19023](http://arxiv.org/abs/2502.19023)|null|
 |**2025-02-26**|**OntologyRAG: Better and Faster Biomedical Code Mapping with Retrieval-Augmented Generation (RAG) Leveraging Ontology Knowledge Graphs and Large Language Models**|Hui Feng et.al.|[2502.18992](http://arxiv.org/abs/2502.18992)|null|
-|**2025-02-26**|**Credible Intervals for Knowledge Graph Accuracy Estimation**|Stefano Marchesin et.al.|[2502.18961](http://arxiv.org/abs/2502.18961)|null|
+|**2025-02-26**|**Credible Intervals for Knowledge Graph Accuracy Estimation**|Stefano Marchesin et.al.|[2502.18961](http://arxiv.org/abs/2502.18961)|**[link](https://github.com/KGAccuracyEval/credible-intervals4kg-estimation)**|
 |**2025-02-26**|**Talking like Piping and Instrumentation Diagrams (P&IDs)**|Achmad Anggawirya Alimin et.al.|[2502.18928](http://arxiv.org/abs/2502.18928)|null|
 |**2025-02-26**|**Holistic Audit Dataset Generation for LLM Unlearning via Knowledge Graph Traversal and Redundancy Removal**|Weipeng Jiang et.al.|[2502.18810](http://arxiv.org/abs/2502.18810)|null|
 |**2025-02-26**|**CommGPT: A Graph and Retrieval-Augmented Multimodal Communication Foundation Model**|Feibo Jiang et.al.|[2502.18763](http://arxiv.org/abs/2502.18763)|null|
@@ -316,7 +331,7 @@ layout: default
 |**2025-02-27**|**K-Edit: Language Model Editing with Contextual Knowledge Awareness**|Elan Markowitz et.al.|[2502.10626](http://arxiv.org/abs/2502.10626)|null|
 |**2025-02-15**|**ProMRVL-CAD: Proactive Dialogue System with Multi-Round Vision-Language Interactions for Computer-Aided Diagnosis**|Xueshen Li et.al.|[2502.10620](http://arxiv.org/abs/2502.10620)|null|
 |**2025-02-12**|**Linking Cryptoasset Attribution Tags to Knowledge Graph Entities: An LLM-based Approach**|Régnier Avice et.al.|[2502.10453](http://arxiv.org/abs/2502.10453)|**[link](https://github.com/ravice234/cryptoasset-attribution-tag-linker)**|
-|**2025-02-14**|**STMA: A Spatio-Temporal Memory Agent for Long-Horizon Embodied Task Planning**|Mingcong Lei et.al.|[2502.10177](http://arxiv.org/abs/2502.10177)|null|
+|**2025-03-02**|**STMA: A Spatio-Temporal Memory Agent for Long-Horizon Embodied Task Planning**|Mingcong Lei et.al.|[2502.10177](http://arxiv.org/abs/2502.10177)|null|
 |**2025-02-14**|**Small Models, Big Impact: Efficient Corpus and Graph-Based Adaptation of Small Multilingual Language Models for Low-Resource Languages**|Daniil Gurgurov et.al.|[2502.10140](http://arxiv.org/abs/2502.10140)|null|
 |**2025-02-14**|**Unsupervised Entity Alignment Based on Personalized Discriminative Rooted Tree**|Yaming Yang et.al.|[2502.10044](http://arxiv.org/abs/2502.10044)|null|
 |**2025-02-14**|**KGGen: Extracting Knowledge Graphs from Plain Text with Language Models**|Belinda Mo et.al.|[2502.09956](http://arxiv.org/abs/2502.09956)|null|
@@ -424,10 +439,10 @@ layout: default
 |**2024-12-23**|**Towards Foundation Models on Graphs: An Analysis on Cross-Dataset Transfer of Pretrained GNNs**|Fabrizio Frasca et.al.|[2412.17609](http://arxiv.org/abs/2412.17609)|null|
 |**2025-01-30**|**Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees**|Zehong Wang et.al.|[2412.16441](http://arxiv.org/abs/2412.16441)|null|
 |**2024-12-19**|**Unified Control Scheme for Optimal Allocation of GFM and GFL Inverters in Power Networks**|Sushobhan Chatterjee et.al.|[2412.15446](http://arxiv.org/abs/2412.15446)|null|
-|**2024-12-19**|**IOHunter: Graph Foundation Model to Uncover Online Information Operations**|Marco Minici et.al.|[2412.14663](http://arxiv.org/abs/2412.14663)|**[link](https://github.com/mminici/socgfm)**|
+|**2025-03-03**|**IOHunter: Graph Foundation Model to Uncover Online Information Operations**|Marco Minici et.al.|[2412.14663](http://arxiv.org/abs/2412.14663)|**[link](https://github.com/mminici/socgfm)**|
 |**2024-12-15**|**GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts**|Zihao Guo et.al.|[2412.11085](http://arxiv.org/abs/2412.11085)|**[link](https://github.com/ringbdstack/graphmore)**|
 |**2024-12-11**|**A Survey of Open-Source Power System Dynamic Simulators with Grid-Forming Inverter for Machine Learning Applications**|Tong Su et.al.|[2412.08065](http://arxiv.org/abs/2412.08065)|null|
-|**2024-12-10**|**Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings**|Billy Joe Franks et.al.|[2412.07407](http://arxiv.org/abs/2412.07407)|null|
+|**2025-03-03**|**Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings**|Billy Joe Franks et.al.|[2412.07407](http://arxiv.org/abs/2412.07407)|null|
 |**2024-12-08**|**f-P vs P-f based Grid-forming Control under RoCoF Event Considering Power and Energy Limits**|Chu Sun et.al.|[2412.05769](http://arxiv.org/abs/2412.05769)|null|
 |**2024-12-05**|**PANGAEA: A Global and Inclusive Benchmark for Geospatial Foundation Models**|Valerio Marsocci et.al.|[2412.04204](http://arxiv.org/abs/2412.04204)|**[link](https://github.com/vmarsocci/pangaea-bench)**|
 |**2024-11-19**|**Distributed Coordination of Grid-Forming and Grid-Following Inverter-Based Resources for Optimal Frequency Control in Power Systems**|Xiaoyang Wang et.al.|[2411.12682](http://arxiv.org/abs/2411.12682)|null|
