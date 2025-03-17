@@ -1,4 +1,4 @@
-## Updated on 2025.03.15
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,8 +18,8 @@
 |---|---|---|---|---|
 |**2025-03-13**|**SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence**|Chang Han Low et.al.|[2503.10265](http://arxiv.org/abs/2503.10265)|null|
 |**2025-03-13**|**Retrieval-Augmented Generation with Hierarchical Knowledge**|Haoyu Huang et.al.|[2503.10150](http://arxiv.org/abs/2503.10150)|**[link](https://github.com/hhy-huang/HiRAG)**|
-|**2025-03-12**|**Conversational Gold: Evaluating Personalized Conversational Search System using Gold Nuggets**|Zahra Abbasiantaeb et.al.|[2503.09902](http://arxiv.org/abs/2503.09902)|null|
-|**2025-03-12**|**MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System**|Jihao Zhao et.al.|[2503.09600](http://arxiv.org/abs/2503.09600)|null|
+|**2025-03-12**|**Conversational Gold: Evaluating Personalized Conversational Search System using Gold Nuggets**|Zahra Abbasiantaeb et.al.|[2503.09902](http://arxiv.org/abs/2503.09902)|**[link](https://github.com/irlabamsterdam/cone-rag)**|
+|**2025-03-12**|**MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System**|Jihao Zhao et.al.|[2503.09600](http://arxiv.org/abs/2503.09600)|**[link](https://github.com/IAAR-Shanghai/Meta-Chunking)**|
 |**2025-03-12**|**Memory-enhanced Retrieval Augmentation for Long Video Understanding**|Huaying Yuan et.al.|[2503.09149](http://arxiv.org/abs/2503.09149)|null|
 |**2025-03-12**|**Everything Can Be Described in Words: A Simple Unified Multi-Modal Framework with Semantic and Temporal Alignment**|Xiaowei Bi et.al.|[2503.09081](http://arxiv.org/abs/2503.09081)|null|
 |**2025-03-11**|**Training Plug-n-Play Knowledge Modules with Deep Context Distillation**|Lucas Caccia et.al.|[2503.08727](http://arxiv.org/abs/2503.08727)|null|
@@ -36,7 +36,7 @@
 |**2025-03-10**|**LLM-C3MOD: A Human-LLM Collaborative System for Cross-Cultural Hate Speech Moderation**|Junyeong Park et.al.|[2503.07237](http://arxiv.org/abs/2503.07237)|null|
 |**2025-03-10**|**CtrlRAG: Black-box Adversarial Attacks Based on Masked Language Models in Retrieval-Augmented Language Generation**|Runqi Sui et.al.|[2503.06950](http://arxiv.org/abs/2503.06950)|null|
 |**2025-03-09**|**Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving**|Yao Cheng et.al.|[2503.06567](http://arxiv.org/abs/2503.06567)|null|
-|**2025-03-08**|**Poisoned-MRAG: Knowledge Poisoning Attacks to Multimodal Retrieval Augmented Generation**|Yinuo Liu et.al.|[2503.06254](http://arxiv.org/abs/2503.06254)|null|
+|**2025-03-14**|**Poisoned-MRAG: Knowledge Poisoning Attacks to Multimodal Retrieval Augmented Generation**|Yinuo Liu et.al.|[2503.06254](http://arxiv.org/abs/2503.06254)|null|
 |**2025-03-07**|**TPU-Gen: LLM-Driven Custom Tensor Processing Unit Generator**|Deepak Vungarala et.al.|[2503.05951](http://arxiv.org/abs/2503.05951)|null|
 |**2025-03-07**|**R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning**|Huatong Song et.al.|[2503.05592](http://arxiv.org/abs/2503.05592)|null|
 |**2025-03-07**|**Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data**|Shiping Yang et.al.|[2503.05587](http://arxiv.org/abs/2503.05587)|null|
@@ -72,7 +72,7 @@
 |**2025-03-06**|**SRAG: Structured Retrieval-Augmented Generation for Multi-Entity Question Answering over Wikipedia Graph**|Teng Lin et.al.|[2503.01346](http://arxiv.org/abs/2503.01346)|null|
 |**2025-03-03**|**Retrieval-Augmented Perception: High-Resolution Image Perception Meets Visual RAG**|Wenbin Wang et.al.|[2503.01222](http://arxiv.org/abs/2503.01222)|**[link](https://github.com/dreammr/rap)**|
 |**2025-03-02**|**Towards Efficient Educational Chatbots: Benchmarking RAG Frameworks**|Umar Ali Khan et.al.|[2503.00781](http://arxiv.org/abs/2503.00781)|null|
-|**2025-03-02**|**GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development**|Leming Shen et.al.|[2503.00686](http://arxiv.org/abs/2503.00686)|null|
+|**2025-03-02**|**GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development**|Leming Shen et.al.|[2503.00686](http://arxiv.org/abs/2503.00686)|**[link](https://github.com/lemingshen/GPIoT)**|
 |**2025-03-01**|**BadJudge: Backdoor Vulnerabilities of LLM-as-a-Judge**|Terry Tong et.al.|[2503.00596](http://arxiv.org/abs/2503.00596)|null|
 |**2025-03-01**|**Qilin: A Multimodal Information Retrieval Dataset with APP-level User Sessions**|Jia Chen et.al.|[2503.00501](http://arxiv.org/abs/2503.00501)|**[link](https://github.com/RED-Search/Qilin)**|
 |**2025-03-01**|**U-NIAH: Unified RAG and LLM Evaluation for Long Context Needle-In-A-Haystack**|Yunfan Gao et.al.|[2503.00353](http://arxiv.org/abs/2503.00353)|**[link](https://github.com/tongji-kgllm/u-niah)**|
@@ -321,7 +321,7 @@
 |**2025-01-18**|**Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments**|Hongjin Su et.al.|[2501.10893](http://arxiv.org/abs/2501.10893)|null|
 |**2025-01-18**|**Visual RAG: Expanding MLLM visual knowledge without fine-tuning**|Mirco Bonomo et.al.|[2501.10834](http://arxiv.org/abs/2501.10834)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## Agent
 
@@ -331,7 +331,7 @@
 |**2024-12-18**|**PersonaGym: Evaluating Persona Agents and LLMs**|Vinay Samuel et.al.|[2407.18416](http://arxiv.org/abs/2407.18416)|null|
 |**2024-10-09**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890](http://arxiv.org/abs/2406.13890)|**[link](https://github.com/weixiangyan/clinicallab)**|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## GraphRAG
 
@@ -341,7 +341,7 @@
 |**2025-01-06**|**Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines**|Abdul M. Mohammed et.al.|[2502.15698](http://arxiv.org/abs/2502.15698)|null|
 |**2025-01-23**|**CAPRAG: A Large Language Model Solution for Customer Service and Automatic Reporting using Vector and Graph Retrieval-Augmented Generation**|Hamza Landolsi et.al.|[2501.13993](http://arxiv.org/abs/2501.13993)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## KG
 
@@ -350,9 +350,9 @@
 |**2025-03-13**|**An Algebraic Foundation for Knowledge Graph Construction (Extended Version)**|Sitt Min Oo et.al.|[2503.10385](http://arxiv.org/abs/2503.10385)|null|
 |**2025-03-13**|**SCOOP: A Framework for Proactive Collaboration and Social Continual Learning through Natural Language Interaction andCausal Reasoning**|Dimitri Ognibene et.al.|[2503.10241](http://arxiv.org/abs/2503.10241)|null|
 |**2025-03-13**|**Type Information-Assisted Self-Supervised Knowledge Graph Denoising**|Jiaqi Sun et.al.|[2503.09916](http://arxiv.org/abs/2503.09916)|null|
-|**2025-03-12**|**What's In Your Field? Mapping Scientific Research with Knowledge Graphs and Large Language Models**|Abhipsha Das et.al.|[2503.09894](http://arxiv.org/abs/2503.09894)|null|
+|**2025-03-12**|**What's In Your Field? Mapping Scientific Research with Knowledge Graphs and Large Language Models**|Abhipsha Das et.al.|[2503.09894](http://arxiv.org/abs/2503.09894)|**[link](https://github.com/chiral-carbon/kg-for-science)**|
 |**2025-03-12**|**All Your Knowledge Belongs to Us: Stealing Knowledge Graphs via Reasoning APIs**|Zhaohan Xi et.al.|[2503.09727](http://arxiv.org/abs/2503.09727)|null|
-|**2025-03-12**|**BYOS: Knowledge-driven Large Language Models Bring Your Own Operating System More Excellent**|Hongyu Lin et.al.|[2503.09663](http://arxiv.org/abs/2503.09663)|null|
+|**2025-03-12**|**BYOS: Knowledge-driven Large Language Models Bring Your Own Operating System More Excellent**|Hongyu Lin et.al.|[2503.09663](http://arxiv.org/abs/2503.09663)|**[link](https://github.com/lhy-24/byos)**|
 |**2025-03-12**|**Multi-Modal Foundation Models for Computational Pathology: A Survey**|Dong Li et.al.|[2503.09091](http://arxiv.org/abs/2503.09091)|null|
 |**2025-03-12**|**TSConnect: An Enhanced MOOC Platform for Bridging Communication Gaps Between Instructors and Students in Light of the Curse of Knowledge**|Qianyu Liu et.al.|[2503.09062](http://arxiv.org/abs/2503.09062)|null|
 |**2025-03-11**|**Graph of AI Ideas: Leveraging Knowledge Graphs and LLMs for AI Research Idea Generation**|Xian Gao et.al.|[2503.08549](http://arxiv.org/abs/2503.08549)|null|
@@ -381,7 +381,7 @@
 |**2025-03-05**|**A Conceptual Model for Attributions in Event-Centric Knowledge Graphs**|Florian Plötzky et.al.|[2503.03563](http://arxiv.org/abs/2503.03563)|null|
 |**2025-03-05**|**COSINT-Agent: A Knowledge-Driven Multimodal Agent for Chinese Open Source Intelligence**|Wentao Li et.al.|[2503.03215](http://arxiv.org/abs/2503.03215)|null|
 |**2025-03-05**|**AttackSeqBench: Benchmarking Large Language Models' Understanding of Sequential Patterns in Cyber Attacks**|Javier Yong et.al.|[2503.03170](http://arxiv.org/abs/2503.03170)|**[link](https://github.com/Javiery3889/AttackSeqBench)**|
-|**2025-03-05**|**PromAssistant: Leveraging Large Language Models for Text-to-PromQL**|Chenxi Zhang et.al.|[2503.03114](http://arxiv.org/abs/2503.03114)|null|
+|**2025-03-14**|**PromAssistant: Leveraging Large Language Models for Text-to-PromQL**|Chenxi Zhang et.al.|[2503.03114](http://arxiv.org/abs/2503.03114)|null|
 |**2025-03-10**|**MuCo-KGC: Multi-Context-Aware Knowledge Graph Completion**|Haji Gul et.al.|[2503.03091](http://arxiv.org/abs/2503.03091)|null|
 |**2025-03-04**|**KGCompiler: Deep Learning Compilation Optimization for Knowledge Graph Complex Logical Query Answering**|Hongyu Lin et.al.|[2503.02172](http://arxiv.org/abs/2503.02172)|**[link](https://github.com/LHY-24/KG-Compilation)**|
 |**2025-03-03**|**Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning**|Wenjie Wu et.al.|[2503.01642](http://arxiv.org/abs/2503.01642)|null|
@@ -528,7 +528,7 @@
 |**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
 |**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|**[link](https://github.com/qinyuma316/retrosynthesisagent)**|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## GFM
 
@@ -642,7 +642,7 @@
 |**2024-11-18**|**Image Demoireing in RAW and sRGB Domains**|Shuning Xu et.al.|[2312.09063](http://arxiv.org/abs/2312.09063)|**[link](https://github.com/rebeccaeexu/RRID)**|
 |**2023-11-21**|**Resilient Control of Networked Microgrids using Vertical Federated Reinforcement Learning: Designs and Real-Time Test-Bed Validations**|Sayak Mukherjee et.al.|[2311.12264](http://arxiv.org/abs/2311.12264)|null|
 
-<p align=right>(<a href=#updated-on-20250315>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
