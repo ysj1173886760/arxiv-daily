@@ -1,4 +1,4 @@
-## Updated on 2025.03.23
+## Updated on 2025.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,21 +16,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-20**|**Towards Lighter and Robust Evaluation for Retrieval Augmented Generation**|Alex-Razvan Ispas et.al.|[2503.16161](http://arxiv.org/abs/2503.16161)|null|
-|**2025-03-20**|**Tuning LLMs by RAG Principles: Towards LLM-native Memory**|Jiale Wei et.al.|[2503.16071](http://arxiv.org/abs/2503.16071)|null|
-|**2025-03-20**|**Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models**|Baolong Bi et.al.|[2503.15888](http://arxiv.org/abs/2503.15888)|null|
-|**2025-03-20**|**Typed-RAG: Type-aware Multi-Aspect Decomposition for Non-Factoid Question Answering**|DongGeon Lee et.al.|[2503.15879](http://arxiv.org/abs/2503.15879)|null|
+|**2025-03-21**|**Bugdar: AI-Augmented Secure Code Review for GitHub Pull Requests**|John Naulty et.al.|[2503.17302](http://arxiv.org/abs/2503.17302)|null|
+|**2025-03-21**|**RustEvo^2: An Evolving Benchmark for API Evolution in LLM-based Rust Code Generation**|Linxi Liang et.al.|[2503.16922](http://arxiv.org/abs/2503.16922)|null|
+|**2025-03-20**|**Investigating Retrieval-Augmented Generation in Quranic Studies: A Study of 13 Open-Source Large Language Models**|Zahra Khalila et.al.|[2503.16581](http://arxiv.org/abs/2503.16581)|null|
+|**2025-03-20**|**FutureGen: LLM-RAG Approach to Generate the Future Work of Scientific Article**|Ibrahim Al Azher et.al.|[2503.16561](http://arxiv.org/abs/2503.16561)|null|
+|**2025-03-18**|**Enhancing LLM Generation with Knowledge Hypergraph for Evidence-Based Medicine**|Chengfeng Dou et.al.|[2503.16530](http://arxiv.org/abs/2503.16530)|null|
+|**2025-03-18**|**HDLCoRe: A Training-Free Framework for Mitigating Hallucinations in LLM-Generated HDL**|Heng Ping et.al.|[2503.16528](http://arxiv.org/abs/2503.16528)|null|
+|**2025-03-05**|**LeRAAT: LLM-Enabled Real-Time Aviation Advisory Tool**|Marc R. Schlichting et.al.|[2503.16477](http://arxiv.org/abs/2503.16477)|null|
+|**2025-03-20**|**Towards Lighter and Robust Evaluation for Retrieval Augmented Generation**|Alex-Razvan Ispas et.al.|[2503.16161](http://arxiv.org/abs/2503.16161)|**[link](https://github.com/razvanip13/towards_lighter_and_robust_evaluation)**|
+|**2025-03-20**|**Tuning LLMs by RAG Principles: Towards LLM-native Memory**|Jiale Wei et.al.|[2503.16071](http://arxiv.org/abs/2503.16071)|**[link](https://github.com/mindverse/rag-tuned-llm)**|
+|**2025-03-20**|**Parameters vs. Context: Fine-Grained Control of Knowledge Reliance in Language Models**|Baolong Bi et.al.|[2503.15888](http://arxiv.org/abs/2503.15888)|**[link](https://github.com/byronbbl/ck-plug)**|
+|**2025-03-21**|**Typed-RAG: Type-aware Multi-Aspect Decomposition for Non-Factoid Question Answering**|DongGeon Lee et.al.|[2503.15879](http://arxiv.org/abs/2503.15879)|**[link](https://github.com/teamnlp/typed-rag)**|
 |**2025-03-20**|**DroidTTP: Mapping Android Applications with TTP for Cyber Threat Intelligence**|Dincy R Arikkat et.al.|[2503.15866](http://arxiv.org/abs/2503.15866)|null|
 |**2025-03-19**|**Enhancing Pancreatic Cancer Staging with Large Language Models: The Role of Retrieval-Augmented Generation**|Hisashi Johno et.al.|[2503.15664](http://arxiv.org/abs/2503.15664)|null|
-|**2025-03-19**|**Does Context Matter? ContextualJudgeBench for Evaluating LLM-based Judges in Contextual Settings**|Austin Xu et.al.|[2503.15620](http://arxiv.org/abs/2503.15620)|null|
+|**2025-03-19**|**Does Context Matter? ContextualJudgeBench for Evaluating LLM-based Judges in Contextual Settings**|Austin Xu et.al.|[2503.15620](http://arxiv.org/abs/2503.15620)|**[link](https://github.com/salesforceairesearch/contextualjudgebench)**|
 |**2025-03-19**|**RAG-based User Profiling for Precision Planning in Mixed-precision Over-the-Air Federated Learning**|Jinsheng Yuan et.al.|[2503.15569](http://arxiv.org/abs/2503.15569)|null|
 |**2025-03-17**|**Privacy-Aware RAG: Secure and Isolated Knowledge Retrieval**|Pengcheng Zhou et.al.|[2503.15548](http://arxiv.org/abs/2503.15548)|null|
-|**2025-03-19**|**Evaluating Bias in Retrieval-Augmented Medical Question-Answering Systems**|Yuelyu Ji et.al.|[2503.15454](http://arxiv.org/abs/2503.15454)|null|
+|**2025-03-22**|**Bias Evaluation and Mitigation in Retrieval-Augmented Medical Question-Answering Systems**|Yuelyu Ji et.al.|[2503.15454](http://arxiv.org/abs/2503.15454)|null|
 |**2025-03-19**|**When LLMs Meet API Documentation: Can Retrieval Augmentation Aid Code Generation Just as It Helps Developers?**|Jingyi Chen et.al.|[2503.15231](http://arxiv.org/abs/2503.15231)|null|
 |**2025-03-19**|**When Pigs Get Sick: Multi-Agent AI for Swine Disease Detection**|Tittaya Mairittha et.al.|[2503.15204](http://arxiv.org/abs/2503.15204)|null|
-|**2025-03-19**|**Optimizing Retrieval Strategies for Financial Question Answering Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191](http://arxiv.org/abs/2503.15191)|null|
+|**2025-03-19**|**Optimizing Retrieval Strategies for Financial Question Answering Documents in Retrieval-Augmented Generation Systems**|Sejong Kim et.al.|[2503.15191](http://arxiv.org/abs/2503.15191)|**[link](https://github.com/seohyunwoo-0407/gar)**|
 |**2025-03-19**|**Graph-Based Re-ranking: Emerging Techniques, Limitations, and Opportunities**|Md Shahir Zaoad et.al.|[2503.14802](http://arxiv.org/abs/2503.14802)|null|
-|**2025-03-18**|**RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving**|Wenqi Jiang et.al.|[2503.14649](http://arxiv.org/abs/2503.14649)|null|
+|**2025-03-21**|**RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving**|Wenqi Jiang et.al.|[2503.14649](http://arxiv.org/abs/2503.14649)|null|
 |**2025-03-18**|**Command R7B Arabic: A Small, Enterprise Focused, Multilingual, and Culturally Aware Arabic LLM**|Yazeed Alnumay et.al.|[2503.14603](http://arxiv.org/abs/2503.14603)|null|
 |**2025-03-18**|**From "Hallucination" to "Suture": Insights from Language Philosophy to Enhance Large Language Models**|Qiantong Wang et.al.|[2503.14392](http://arxiv.org/abs/2503.14392)|null|
 |**2025-03-18**|**Good/Evil Reputation Judgment of Celebrities by LLMs via Retrieval Augmented Generation**|Rikuto Tsuchida et.al.|[2503.14382](http://arxiv.org/abs/2503.14382)|null|
@@ -50,13 +57,14 @@
 |**2025-03-18**|**LLM-Match: An Open-Sourced Patient Matching Model Based on Large Language Models and Retrieval-Augmented Generation**|Xiaodi Li et.al.|[2503.13281](http://arxiv.org/abs/2503.13281)|null|
 |**2025-03-17**|**Safeguarding LLM Embeddings in End-Cloud Collaboration via Entropy-Driven Perturbation**|Shuaifan Jin et.al.|[2503.12896](http://arxiv.org/abs/2503.12896)|null|
 |**2025-03-17**|**RAG-RL: Advancing Retrieval-Augmented Generation via RL and Curriculum Learning**|Jerry Huang et.al.|[2503.12759](http://arxiv.org/abs/2503.12759)|null|
-|**2025-03-16**|**Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding**|Imran Kabir et.al.|[2503.12663](http://arxiv.org/abs/2503.12663)|null|
+|**2025-03-16**|**Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding**|Imran Kabir et.al.|[2503.12663](http://arxiv.org/abs/2503.12663)|**[link](https://github.com/imran2205/logicrag)**|
 |**2025-03-15**|**Integrating Chain-of-Thought and Retrieval Augmented Generation Enhances Rare Disease Diagnosis from Clinical Notes**|Da Wu et.al.|[2503.12286](http://arxiv.org/abs/2503.12286)|null|
 |**2025-03-15**|**Agentic Search Engine for Real-Time IoT Data**|Abdelrahman Elewah et.al.|[2503.12255](http://arxiv.org/abs/2503.12255)|**[link](https://github.com/SensorsConnect/IoT-Agentic-Search-Engine)**|
 |**2025-03-15**|**TFHE-Coder: Evaluating LLM-agentic Fully Homomorphic Encryption Code Generation**|Mayank Kumar et.al.|[2503.12217](http://arxiv.org/abs/2503.12217)|null|
 |**2025-03-15**|**PredicateFix: Repairing Static Analysis Alerts with Bridging Predicates**|Yuan-An Xiao et.al.|[2503.12205](http://arxiv.org/abs/2503.12205)|null|
 |**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|**[link](https://github.com/zju-daily/aistorian)**|
 |**2025-03-14**|**MUSS: Multilevel Subset Selection for Relevance and Diversity**|Vu Nguyen et.al.|[2503.11126](http://arxiv.org/abs/2503.11126)|null|
+|**2025-03-21**|**DeepSeek Powered Solid Dosage Formulation Design and Development**|Leqi Lin et.al.|[2503.11068](http://arxiv.org/abs/2503.11068)|null|
 |**2025-03-13**|**Taxonomic Reasoning for Rare Arthropods: Combining Dense Image Captioning and RAG for Interpretable Classification**|Nathaniel Lesperance et.al.|[2503.10886](http://arxiv.org/abs/2503.10886)|null|
 |**2025-03-13**|**AttentionRAG: Attention-Guided Context Pruning in Retrieval-Augmented Generation**|Yixiong Fang et.al.|[2503.10720](http://arxiv.org/abs/2503.10720)|null|
 |**2025-03-12**|**CALLM: Context-Aware Emotion Analysis in Cancer Survivors Using LLMs and Retrieval-Augmented Mobile Diaries**|Zhiyuan Wang et.al.|[2503.10707](http://arxiv.org/abs/2503.10707)|null|
@@ -369,7 +377,7 @@
 |**2025-01-18**|**Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments**|Hongjin Su et.al.|[2501.10893](http://arxiv.org/abs/2501.10893)|null|
 |**2025-01-18**|**Visual RAG: Expanding MLLM visual knowledge without fine-tuning**|Mirco Bonomo et.al.|[2501.10834](http://arxiv.org/abs/2501.10834)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
 
 ## Agent
 
@@ -379,7 +387,7 @@
 |**2024-12-18**|**PersonaGym: Evaluating Persona Agents and LLMs**|Vinay Samuel et.al.|[2407.18416](http://arxiv.org/abs/2407.18416)|null|
 |**2024-10-09**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890](http://arxiv.org/abs/2406.13890)|**[link](https://github.com/weixiangyan/clinicallab)**|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
 
 ## GraphRAG
 
@@ -389,13 +397,19 @@
 |**2025-01-06**|**Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines**|Abdul M. Mohammed et.al.|[2502.15698](http://arxiv.org/abs/2502.15698)|null|
 |**2025-01-23**|**CAPRAG: A Large Language Model Solution for Customer Service and Automatic Reporting using Vector and Graph Retrieval-Augmented Generation**|Hamza Landolsi et.al.|[2501.13993](http://arxiv.org/abs/2501.13993)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
 
 ## KG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-20**|**MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering**|Feiyang Li et.al.|[2503.16131](http://arxiv.org/abs/2503.16131)|null|
+|**2025-03-21**|**FactSelfCheck: Fact-Level Black-Box Hallucination Detection for LLMs**|Albert Sawczyn et.al.|[2503.17229](http://arxiv.org/abs/2503.17229)|null|
+|**2025-03-20**|**Natural Language Generation**|Emiel van Miltenburg et.al.|[2503.16728](http://arxiv.org/abs/2503.16728)|null|
+|**2025-03-20**|**Accelerating Antibiotic Discovery with Large Language Models and Knowledge Graphs**|Maxime Delmas et.al.|[2503.16655](http://arxiv.org/abs/2503.16655)|null|
+|**2025-03-18**|**From Patient Consultations to Graphs: Leveraging LLMs for Patient Journey Knowledge Graph Construction**|Hassan S. Al Khatib et.al.|[2503.16533](http://arxiv.org/abs/2503.16533)|null|
+|**2025-03-18**|**Enhancing LLM Generation with Knowledge Hypergraph for Evidence-Based Medicine**|Chengfeng Dou et.al.|[2503.16530](http://arxiv.org/abs/2503.16530)|null|
+|**2025-02-26**|**Human-Centered AI in Multidisciplinary Medical Discussions: Evaluating the Feasibility of a Chat-Based Approach to Case Assessment**|Shinnosuke Sawano et.al.|[2503.16464](http://arxiv.org/abs/2503.16464)|null|
+|**2025-03-21**|**MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering**|Feiyang Li et.al.|[2503.16131](http://arxiv.org/abs/2503.16131)|null|
 |**2025-03-20**|**ECKGBench: Benchmarking Large Language Models in E-commerce Leveraging Knowledge Graph**|Langming Liu et.al.|[2503.15990](http://arxiv.org/abs/2503.15990)|null|
 |**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
 |**2025-03-20**|**A metadata model for profiling multidimensional sources in data ecosystems**|Claudia Diamantini et.al.|[2503.15951](http://arxiv.org/abs/2503.15951)|null|
@@ -592,12 +606,13 @@
 |**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
 |**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|**[link](https://github.com/qinyuma316/retrosynthesisagent)**|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
 
 ## GFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Gene42: Long-Range Genomic Foundation Model With Dense Attention**|Kirill Vishniakov et.al.|[2503.16565](http://arxiv.org/abs/2503.16565)|null|
 |**2025-03-20**|**Towards Agentic AI Networking in 6G: A Generative Foundation Model-as-Agent Approach**|Yong Xiao et.al.|[2503.15764](http://arxiv.org/abs/2503.15764)|null|
 |**2025-03-18**|**Towards Scalable Foundation Model for Multi-modal and Hyperspectral Geospatial Data**|Haozhe Si et.al.|[2503.12843](http://arxiv.org/abs/2503.12843)|null|
 |**2025-03-15**|**Power Swing Trajectory Influenced by Virtual Impedance-Based Current-Limiting Strategy**|Yanshu Niu et.al.|[2503.12278](http://arxiv.org/abs/2503.12278)|null|
@@ -710,7 +725,7 @@
 |**2024-11-18**|**Image Demoireing in RAW and sRGB Domains**|Shuning Xu et.al.|[2312.09063](http://arxiv.org/abs/2312.09063)|**[link](https://github.com/rebeccaeexu/RRID)**|
 |**2023-11-21**|**Resilient Control of Networked Microgrids using Vertical Federated Reinforcement Learning: Designs and Real-Time Test-Bed Validations**|Sayak Mukherjee et.al.|[2311.12264](http://arxiv.org/abs/2311.12264)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
