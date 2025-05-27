@@ -1,4 +1,4 @@
-## Updated on 2025.05.25
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,24 +16,43 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|null|
+|**2025-05-23**|**QwenLong-CPRS: Towards $\infty$ -LLMs with Dynamic Context Optimization**|Weizhou Shen et.al.|[2505.18092](http://arxiv.org/abs/2505.18092)|null|
+|**2025-05-23**|**VIBE: Vector Index Benchmark for Embeddings**|Elias Jääsaari et.al.|[2505.17810](http://arxiv.org/abs/2505.17810)|null|
+|**2025-05-23**|**Resolving Conflicting Evidence in Automated Fact-Checking: A Study on Retrieval-Augmented LLMs**|Ziyu Ge et.al.|[2505.17762](http://arxiv.org/abs/2505.17762)|null|
+|**2025-05-23**|**Enhancing Large Vision-Language Models with Layout Modality for Table Question Answering on Japanese Annual Securities Reports**|Hayato Aida et.al.|[2505.17625](http://arxiv.org/abs/2505.17625)|null|
+|**2025-05-23**|**Optimizing Retrieval-Augmented Generation for Electrical Engineering: A Case Study on ABB Circuit Breakers**|Salahuddin Alawadhi et.al.|[2505.17520](http://arxiv.org/abs/2505.17520)|null|
+|**2025-05-23**|**CReSt: A Comprehensive Benchmark for Retrieval-Augmented Generation with Complex Reasoning over Structured Documents**|Minsoo Khang et.al.|[2505.17503](http://arxiv.org/abs/2505.17503)|null|
+|**2025-05-23**|**FinRAGBench-V: A Benchmark for Multimodal RAG with Visual Citation in the Financial Domain**|Suifeng Zhao et.al.|[2505.17471](http://arxiv.org/abs/2505.17471)|null|
+|**2025-05-23**|**Hydra: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464](http://arxiv.org/abs/2505.17464)|null|
+|**2025-05-23**|**LeTS: Learning to Think-and-Search via Process-and-Outcome Reward Hybridization**|Qi Zhang et.al.|[2505.17447](http://arxiv.org/abs/2505.17447)|null|
+|**2025-05-23**|**Curriculum Guided Reinforcement Learning for Efficient Multi Hop Retrieval Augmented Generation**|Yuelyu Ji et.al.|[2505.17391](http://arxiv.org/abs/2505.17391)|null|
+|**2025-05-22**|**VoxRAG: A Step Toward Transcription-Free RAG Systems in Spoken Question Answering**|Zackary Rackauckas et.al.|[2505.17326](http://arxiv.org/abs/2505.17326)|null|
+|**2025-05-22**|**Search Wisely: Mitigating Sub-optimal Agentic Searches By Reducing Uncertainty**|Peilin Wu et.al.|[2505.17281](http://arxiv.org/abs/2505.17281)|null|
+|**2025-05-22**|**Personalizing Student-Agent Interactions Using Log-Contextualized Retrieval Augmented Generation (RAG)**|Clayton Cohn et.al.|[2505.17238](http://arxiv.org/abs/2505.17238)|null|
+|**2025-05-22**|**FB-RAG: Improving RAG with Forward and Backward Lookup**|Kushal Chawla et.al.|[2505.17206](http://arxiv.org/abs/2505.17206)|null|
+|**2025-05-22**|**DailyQA: A Benchmark to Evaluate Web Retrieval Augmented LLMs Based on Capturing Real-World Changes**|Jiehan Cheng et.al.|[2505.17162](http://arxiv.org/abs/2505.17162)|null|
+|**2025-05-22**|**PersonaBOT: Bringing Customer Personas to Life with LLMs and RAG**|Muhammed Rizwan et.al.|[2505.17156](http://arxiv.org/abs/2505.17156)|null|
+|**2025-05-22**|**LSM-VEC: A Large-Scale Disk-Based System for Dynamic Vector Search**|Shurui Zhong et.al.|[2505.17152](http://arxiv.org/abs/2505.17152)|null|
+|**2025-05-21**|**After Retrieval, Before Generation: Enhancing the Trustworthiness of Large Language Models in RAG**|Xinbang Dai et.al.|[2505.17118](http://arxiv.org/abs/2505.17118)|null|
+|**2025-05-17**|**DO-RAG: A Domain-Specific QA Framework Using Knowledge Graph-Enhanced Retrieval-Augmented Generation**|David Osei Opoku et.al.|[2505.17058](http://arxiv.org/abs/2505.17058)|null|
+|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|**[link](https://github.com/rucaibox/r1-searcher-plus)**|
 |**2025-05-22**|**Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks**|Hongyuan Tao et.al.|[2505.16901](http://arxiv.org/abs/2505.16901)|null|
 |**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849](http://arxiv.org/abs/2505.16849)|**[link](https://github.com/MartinBoeckling/KGRag)**|
-|**2025-05-22**|**SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis**|Shuang Sun et.al.|[2505.16834](http://arxiv.org/abs/2505.16834)|null|
+|**2025-05-25**|**SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis**|Shuang Sun et.al.|[2505.16834](http://arxiv.org/abs/2505.16834)|**[link](https://github.com/rucaibox/simpledeepsearcher)**|
 |**2025-05-22**|**CUB: Benchmarking Context Utilisation Techniques for Language Models**|Lovisa Hagström et.al.|[2505.16518](http://arxiv.org/abs/2505.16518)|null|
 |**2025-05-22**|**Attributing Response to Context: A Jensen-Shannon Divergence Driven Mechanistic Study of Context Attribution in Retrieval-Augmented Generation**|Ruizhe Li et.al.|[2505.16415](http://arxiv.org/abs/2505.16415)|null|
 |**2025-05-22**|**Chain-of-Thought Poisoning Attacks against R1-based Retrieval-Augmented Generation Systems**|Hongru Song et.al.|[2505.16367](http://arxiv.org/abs/2505.16367)|null|
-|**2025-05-22**|**Ask, Retrieve, Summarize: A Modular Pipeline for Scientific Literature Summarization**|Pierre Achkar et.al.|[2505.16349](http://arxiv.org/abs/2505.16349)|null|
+|**2025-05-22**|**Ask, Retrieve, Summarize: A Modular Pipeline for Scientific Literature Summarization**|Pierre Achkar et.al.|[2505.16349](http://arxiv.org/abs/2505.16349)|**[link](https://github.com/webis-de/scolia25-xsum)**|
 |**2025-05-22**|**Augmenting LLM Reasoning with Dynamic Notes Writing for Complex QA**|Rishabh Maheshwary et.al.|[2505.16293](http://arxiv.org/abs/2505.16293)|null|
 |**2025-05-22**|**Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation**|Derong Xu et.al.|[2505.16237](http://arxiv.org/abs/2505.16237)|null|
-|**2025-05-22**|**MuseRAG: Idea Originality Scoring At Scale**|Ali Sarosh Bangash et.al.|[2505.16232](http://arxiv.org/abs/2505.16232)|null|
-|**2025-05-22**|**HASH-RAG: Bridging Deep Hashing with Retriever for Efficient, Fine Retrieval and Augmented Generation**|Jinyu Guo et.al.|[2505.16133](http://arxiv.org/abs/2505.16133)|null|
+|**2025-05-22**|**MuseRAG: Idea Originality Scoring At Scale**|Ali Sarosh Bangash et.al.|[2505.16232](http://arxiv.org/abs/2505.16232)|**[link](https://github.com/cssai-research/muserag)**|
+|**2025-05-25**|**HASH-RAG: Bridging Deep Hashing with Retriever for Efficient, Fine Retrieval and Augmented Generation**|Jinyu Guo et.al.|[2505.16133](http://arxiv.org/abs/2505.16133)|null|
 |**2025-05-22**|**Tools in the Loop: Quantifying Uncertainty of LLM Question Answering Systems That Use Tools**|Panagiotis Lymperopoulos et.al.|[2505.16113](http://arxiv.org/abs/2505.16113)|null|
-|**2025-05-22**|**Continually Self-Improving Language Models for Bariatric Surgery Question--Answering**|Yash Kumar Atri et.al.|[2505.16102](http://arxiv.org/abs/2505.16102)|null|
+|**2025-05-23**|**Continually Self-Improving Language Models for Bariatric Surgery Question--Answering**|Yash Kumar Atri et.al.|[2505.16102](http://arxiv.org/abs/2505.16102)|null|
 |**2025-05-22**|**Cosmos: A CXL-Based Full In-Memory System for Approximate Nearest Neighbor Search**|Seoyoung Ko et.al.|[2505.16096](http://arxiv.org/abs/2505.16096)|null|
-|**2025-05-21**|**Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains**|Yash Saxena et.al.|[2505.16014](http://arxiv.org/abs/2505.16014)|null|
+|**2025-05-23**|**Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains**|Yash Saxena et.al.|[2505.16014](http://arxiv.org/abs/2505.16014)|null|
 |**2025-05-21**|**BR-TaxQA-R: A Dataset for Question Answering with References for Brazilian Personal Income Tax Law, including case law**|Juvenal Domingos Júnior et.al.|[2505.15916](http://arxiv.org/abs/2505.15916)|null|
-|**2025-05-21**|**InfoDeepSeek: Benchmarking Agentic Information Seeking for Retrieval-Augmented Generation**|Yunjia Xi et.al.|[2505.15872](http://arxiv.org/abs/2505.15872)|null|
+|**2025-05-23**|**InfoDeepSeek: Benchmarking Agentic Information Seeking for Retrieval-Augmented Generation**|Yunjia Xi et.al.|[2505.15872](http://arxiv.org/abs/2505.15872)|null|
 |**2025-05-21**|**Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**|Taiye Chen et.al.|[2505.15753](http://arxiv.org/abs/2505.15753)|null|
 |**2025-05-21**|**HDLxGraph: Bridging Large Language Models and HDL Repositories via HDL Graph Databases**|Pingqing Zheng et.al.|[2505.15701](http://arxiv.org/abs/2505.15701)|**[link](https://github.com/nick-zheng-q/hdlxgraph)**|
 |**2025-05-21**|**Do RAG Systems Suffer From Positional Bias?**|Florin Cuconasu et.al.|[2505.15561](http://arxiv.org/abs/2505.15561)|null|
@@ -47,9 +66,9 @@
 |**2025-05-20**|**SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation**|Yuyang Dong et.al.|[2505.14381](http://arxiv.org/abs/2505.14381)|null|
 |**2025-05-20**|**Automatic Dataset Generation for Knowledge Intensive Question Answering Tasks**|Sizhe Yuen et.al.|[2505.14212](http://arxiv.org/abs/2505.14212)|null|
 |**2025-05-20**|**s3: You Don't Need That Much Data to Train a Search Agent via RL**|Pengcheng Jiang et.al.|[2505.14146](http://arxiv.org/abs/2505.14146)|**[link](https://github.com/pat-jj/s3)**|
-|**2025-05-20**|**MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations**|Ernests Lavrinovics et.al.|[2505.14101](http://arxiv.org/abs/2505.14101)|null|
+|**2025-05-20**|**MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations**|Ernests Lavrinovics et.al.|[2505.14101](http://arxiv.org/abs/2505.14101)|**[link](https://github.com/ernlavr/multihal)**|
 |**2025-05-20**|**Beyond Chains: Bridging Large Language Models and Knowledge Bases in Complex Question Answering**|Yihua Zhu et.al.|[2505.14099](http://arxiv.org/abs/2505.14099)|null|
-|**2025-05-22**|**Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning**|Wenlin Zhang et.al.|[2505.14069](http://arxiv.org/abs/2505.14069)|null|
+|**2025-05-22**|**Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning**|Wenlin Zhang et.al.|[2505.14069](http://arxiv.org/abs/2505.14069)|**[link](https://github.com/wlzhang2020/reasonrag)**|
 |**2025-05-20**|**Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning**|Ruiyi Yang et.al.|[2505.13994](http://arxiv.org/abs/2505.13994)|null|
 |**2025-05-20**|**Beyond Text: Unveiling Privacy Vulnerabilities in Multi-modal Retrieval-Augmented Generation**|Jiankun Zhang et.al.|[2505.13957](http://arxiv.org/abs/2505.13957)|null|
 |**2025-05-20**|**Benchmarking the Myopic Trap: Positional Bias in Information Retrieval**|Ziyang Zeng et.al.|[2505.13950](http://arxiv.org/abs/2505.13950)|**[link](https://github.com/novasearch-team/rag-retrieval)**|
@@ -60,17 +79,17 @@
 |**2025-05-19**|**Know Or Not: a library for evaluating out-of-knowledge base robustness**|Jessica Foo et.al.|[2505.13545](http://arxiv.org/abs/2505.13545)|**[link](https://github.com/govtech-responsibleai/knowornot)**|
 |**2025-05-18**|**RAGXplain: From Explainable Evaluation to Actionable Guidance of RAG Pipelines**|Dvir Cohen et.al.|[2505.13538](http://arxiv.org/abs/2505.13538)|null|
 |**2025-05-16**|**EcoSafeRAG: Efficient Security through Context Analysis in Retrieval-Augmented Generation**|Ruobing Yao et.al.|[2505.13506](http://arxiv.org/abs/2505.13506)|null|
-|**2025-05-19**|**Effective and Transparent RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability**|Jingyi Ren et.al.|[2505.13258](http://arxiv.org/abs/2505.13258)|null|
+|**2025-05-19**|**Effective and Transparent RAG: Adaptive-Reward Reinforcement Learning for Decision Traceability**|Jingyi Ren et.al.|[2505.13258](http://arxiv.org/abs/2505.13258)|**[link](https://github.com/ren258/ARENA)**|
 |**2025-05-19**|**Optimizing Retrieval Augmented Generation for Object Constraint Language**|Kevin Chenhao Li et.al.|[2505.13129](http://arxiv.org/abs/2505.13129)|null|
 |**2025-05-19**|**Evaluating the Performance of RAG Methods for Conversational AI in the Airport Domain**|Yuyang Li et.al.|[2505.13006](http://arxiv.org/abs/2505.13006)|null|
 |**2025-05-19**|**Re-identification of De-identified Documents with Autoregressive Infilling**|Lucas Georges Gabriel Charpentier et.al.|[2505.12859](http://arxiv.org/abs/2505.12859)|null|
-|**2025-05-19**|**Accelerating Adaptive Retrieval Augmented Generation via Instruction-Driven Representation Reduction of Retrieval Overlaps**|Jie Ou et.al.|[2505.12731](http://arxiv.org/abs/2505.12731)|null|
+|**2025-05-25**|**Accelerating Adaptive Retrieval Augmented Generation via Instruction-Driven Representation Reduction of Retrieval Overlaps**|Jie Ou et.al.|[2505.12731](http://arxiv.org/abs/2505.12731)|null|
 |**2025-05-19**|**Towards A Generalist Code Embedding Model Based On Massive Data Synthesis**|Chaofan Li et.al.|[2505.12697](http://arxiv.org/abs/2505.12697)|**[link](https://github.com/flagopen/flagembedding)**|
 |**2025-05-19**|**Know3-RAG: A Knowledge-aware RAG Framework with Adaptive Retrieval, Generation, and Filtering**|Xukai Liu et.al.|[2505.12662](http://arxiv.org/abs/2505.12662)|**[link](https://github.com/laquabe/know3rag)**|
 |**2025-05-19**|**Think Before You Attribute: Improving the Performance of LLMs Attribution Systems**|João Eduardo Batista et.al.|[2505.12621](http://arxiv.org/abs/2505.12621)|null|
 |**2025-05-22**|**PoisonArena: Uncovering Competing Poisoning Attacks in Retrieval-Augmented Generation**|Liuji Chen et.al.|[2505.12574](http://arxiv.org/abs/2505.12574)|**[link](https://github.com/yxf203/poisonarena)**|
 |**2025-05-17**|**Unveiling Knowledge Utilization Mechanisms in LLM-based Retrieval-Augmented Generation**|Yuhao Wang et.al.|[2505.11995](http://arxiv.org/abs/2505.11995)|null|
-|**2025-05-17**|**TechniqueRAG: Retrieval Augmented Generation for Adversarial Technique Annotation in Cyber Threat Intelligence Text**|Ahmed Lekssays et.al.|[2505.11988](http://arxiv.org/abs/2505.11988)|null|
+|**2025-05-17**|**TechniqueRAG: Retrieval Augmented Generation for Adversarial Technique Annotation in Cyber Threat Intelligence Text**|Ahmed Lekssays et.al.|[2505.11988](http://arxiv.org/abs/2505.11988)|**[link](https://github.com/qcri/techniquerag)**|
 |**2025-05-17**|**Let's have a chat with the EU AI Act**|Adam Kovari et.al.|[2505.11946](http://arxiv.org/abs/2505.11946)|null|
 |**2025-05-17**|**Neuro-Symbolic Query Compiler**|Yuyao Zhang et.al.|[2505.11932](http://arxiv.org/abs/2505.11932)|**[link](https://github.com/yuyaozhangqaq/query_compiler)**|
 |**2025-05-17**|**ELITE: Embedding-Less retrieval with Iterative Text Exploration**|Zhangyu Wang et.al.|[2505.11908](http://arxiv.org/abs/2505.11908)|**[link](https://github.com/tjzvbokbnft/ELITE-Embedding-Less-retrieval-with-Iterative-Text-Exploration)**|
@@ -777,7 +796,7 @@
 |**2025-01-18**|**Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments**|Hongjin Su et.al.|[2501.10893](http://arxiv.org/abs/2501.10893)|null|
 |**2025-01-18**|**Visual RAG: Expanding MLLM visual knowledge without fine-tuning**|Mirco Bonomo et.al.|[2501.10834](http://arxiv.org/abs/2501.10834)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
 ## Agent
 
@@ -787,7 +806,7 @@
 |**2025-05-19**|**PersonaGym: Evaluating Persona Agents and LLMs**|Vinay Samuel et.al.|[2407.18416](http://arxiv.org/abs/2407.18416)|null|
 |**2024-10-09**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890](http://arxiv.org/abs/2406.13890)|**[link](https://github.com/weixiangyan/clinicallab)**|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
 ## GraphRAG
 
@@ -799,29 +818,38 @@
 |**2025-01-06**|**Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines**|Abdul M. Mohammed et.al.|[2502.15698](http://arxiv.org/abs/2502.15698)|null|
 |**2025-01-23**|**CAPRAG: A Large Language Model Solution for Customer Service and Automatic Reporting using Vector and Graph Retrieval-Augmented Generation**|Hamza Landolsi et.al.|[2501.13993](http://arxiv.org/abs/2501.13993)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
 ## KG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Structured Thinking Matters: Improving LLMs Generalization in Causal Inference Tasks**|Wentao Sun et.al.|[2505.18034](http://arxiv.org/abs/2505.18034)|null|
+|**2025-05-23**|**RECIPE-TKG: From Sparse History to Structured Reasoning for LLM-based Temporal Knowledge Graph Completion**|Ömer Faruk Akgül et.al.|[2505.17794](http://arxiv.org/abs/2505.17794)|null|
+|**2025-05-23**|**Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph**|Qiaosheng Chen et.al.|[2505.17507](http://arxiv.org/abs/2505.17507)|null|
+|**2025-05-23**|**The Discovery Engine: A Framework for AI-Driven Synthesis and Navigation of Scientific Knowledge Landscapes**|Vladimir Baulin et.al.|[2505.17500](http://arxiv.org/abs/2505.17500)|null|
+|**2025-05-23**|**Managing FAIR Knowledge Graphs as Polyglot Data End Points: A Benchmark based on the rdf2pg Framework and Plant Biology Data**|Marco Brandizi et.al.|[2505.17498](http://arxiv.org/abs/2505.17498)|null|
+|**2025-05-23**|**Hydra: Structured Cross-Source Enhanced Large Language Model Reasoning**|Xingyu Tan et.al.|[2505.17464](http://arxiv.org/abs/2505.17464)|null|
+|**2025-05-22**|**MEDMKG: Benchmarking Medical Knowledge Exploitation with Multimodal Knowledge Graph**|Xiaochen Wang et.al.|[2505.17214](http://arxiv.org/abs/2505.17214)|null|
+|**2025-05-17**|**DO-RAG: A Domain-Specific QA Framework Using Knowledge Graph-Enhanced Retrieval-Augmented Generation**|David Osei Opoku et.al.|[2505.17058](http://arxiv.org/abs/2505.17058)|null|
+|**2025-05-13**|**VLM-KG: Multimodal Radiology Knowledge Graph Generation**|Abdullah Abdullah et.al.|[2505.17042](http://arxiv.org/abs/2505.17042)|null|
 |**2025-05-22**|**Predicate-Conditional Conformalized Answer Sets for Knowledge Graph Embeddings**|Yuqicheng Zhu et.al.|[2505.16877](http://arxiv.org/abs/2505.16877)|null|
 |**2025-05-22**|**Walk&Retrieve: Simple Yet Effective Zero-shot Retrieval-Augmented Generation via Knowledge Graph Walks**|Martin Böckling et.al.|[2505.16849](http://arxiv.org/abs/2505.16849)|**[link](https://github.com/MartinBoeckling/KGRag)**|
 |**2025-05-22**|**Filling in the Blanks? A Systematic Review and Theoretical Conceptualisation for Measuring WikiData Content Gaps**|Marisa Ripoll et.al.|[2505.16383](http://arxiv.org/abs/2505.16383)|null|
-|**2025-05-22**|**How do Scaling Laws Apply to Knowledge Graph Engineering Tasks? The Impact of Model Size on Large Language Model Performance**|Desiree Heim et.al.|[2505.16276](http://arxiv.org/abs/2505.16276)|null|
+|**2025-05-22**|**How do Scaling Laws Apply to Knowledge Graph Engineering Tasks? The Impact of Model Size on Large Language Model Performance**|Desiree Heim et.al.|[2505.16276](http://arxiv.org/abs/2505.16276)|**[link](https://github.com/aksw/llm-kg-bench)**|
 |**2025-05-22**|**Align-GRAG: Reasoning-Guided Dual Alignment for Graph Retrieval-Augmented Generation**|Derong Xu et.al.|[2505.16237](http://arxiv.org/abs/2505.16237)|null|
 |**2025-05-22**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747](http://arxiv.org/abs/2505.15747)|null|
 |**2025-05-21**|**Protoknowledge Shapes Behaviour of LLMs in Downstream Tasks: Memorization and Generalization with Knowledge Graphs**|Federico Ranaldi et.al.|[2505.15501](http://arxiv.org/abs/2505.15501)|null|
 |**2025-05-21**|**Towards Explainable Temporal Reasoning in Large Language Models: A Structure-Aware Generative Framework**|Zihao Jiang et.al.|[2505.15245](http://arxiv.org/abs/2505.15245)|**[link](https://github.com/carrytatum/geter)**|
 |**2025-05-21**|**Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs**|Jie Ma et.al.|[2505.15210](http://arxiv.org/abs/2505.15210)|**[link](https://github.com/reml-group/deliberation-on-priors)**|
-|**2025-05-21**|**Graph Foundation Models: A Comprehensive Survey**|Zehong Wang et.al.|[2505.15116](http://arxiv.org/abs/2505.15116)|null|
+|**2025-05-21**|**Graph Foundation Models: A Comprehensive Survey**|Zehong Wang et.al.|[2505.15116](http://arxiv.org/abs/2505.15116)|**[link](https://github.com/zehong-wang/awesome-foundation-models-on-graphs)**|
 |**2025-05-21**|**SciCUEval: A Comprehensive Dataset for Evaluating Scientific Context Understanding in Large Language Models**|Jing Yu et.al.|[2505.15094](http://arxiv.org/abs/2505.15094)|null|
-|**2025-05-21**|**Self-GIVE: Associative Thinking from Limited Structured Knowledge for Enhanced Large Language Model Reasoning**|Jiashu He et.al.|[2505.15062](http://arxiv.org/abs/2505.15062)|null|
+|**2025-05-24**|**Self-GIVE: Associative Thinking from Limited Structured Knowledge for Enhanced Large Language Model Reasoning**|Jiashu He et.al.|[2505.15062](http://arxiv.org/abs/2505.15062)|null|
 |**2025-05-20**|**TxPert: Leveraging Biochemical Relationships for Out-of-Distribution Transcriptomic Perturbation Prediction**|Frederik Wenkel et.al.|[2505.14919](http://arxiv.org/abs/2505.14919)|**[link](https://github.com/valence-labs/TxPert)**|
-|**2025-05-18**|**KGAlign: Joint Semantic-Structural Knowledge Encoding for Multimodal Fake News Detection**|Tuan-Vinh La et.al.|[2505.14714](http://arxiv.org/abs/2505.14714)|null|
+|**2025-05-18**|**KGAlign: Joint Semantic-Structural Knowledge Encoding for Multimodal Fake News Detection**|Tuan-Vinh La et.al.|[2505.14714](http://arxiv.org/abs/2505.14714)|**[link](https://github.com/latuanvinh1998/kgalign)**|
 |**2025-05-20**|**KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models**|Fnu Mohbat et.al.|[2505.14629](http://arxiv.org/abs/2505.14629)|**[link](https://github.com/mohbattharani/kerl)**|
 |**2025-05-20**|**Knowledge Graph Based Repository-Level Code Generation**|Mihir Athale et.al.|[2505.14394](http://arxiv.org/abs/2505.14394)|null|
-|**2025-05-20**|**MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations**|Ernests Lavrinovics et.al.|[2505.14101](http://arxiv.org/abs/2505.14101)|null|
+|**2025-05-20**|**MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations**|Ernests Lavrinovics et.al.|[2505.14101](http://arxiv.org/abs/2505.14101)|**[link](https://github.com/ernlavr/multihal)**|
 |**2025-05-20**|**Disentangled Multi-span Evolutionary Network against Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2505.14020](http://arxiv.org/abs/2505.14020)|null|
 |**2025-05-20**|**Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning**|Ruiyi Yang et.al.|[2505.13994](http://arxiv.org/abs/2505.13994)|null|
 |**2025-05-19**|**Self-Reinforced Graph Contrastive Learning**|Chou-Ying Hsieh et.al.|[2505.13650](http://arxiv.org/abs/2505.13650)|**[link](https://github.com/ntuddsnlab/srgcl)**|
@@ -829,8 +857,8 @@
 |**2025-05-18**|**InterFeat: An Automated Pipeline for Finding Interesting Hypotheses in Structured Biomedical Data**|Dan Ofer et.al.|[2505.13534](http://arxiv.org/abs/2505.13534)|**[link](https://github.com/liniallab/interfeat)**|
 |**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406](http://arxiv.org/abs/2505.13406)|null|
 |**2025-05-19**|**MRM3: Machine Readable ML Model Metadata**|Andrej Čop et.al.|[2505.13343](http://arxiv.org/abs/2505.13343)|**[link](https://github.com/sensorlab/MRM3)**|
-|**2025-05-20**|**Rank, Chunk and Expand: Lineage-Oriented Reasoning for Taxonomy Expansion**|Sahil Mishra et.al.|[2505.13282](http://arxiv.org/abs/2505.13282)|null|
-|**2025-05-19**|**CHAD-KG: A Knowledge Graph for Representing Cultural Heritage Objects and Digitisation Paradata**|Sebastian Barzaghi et.al.|[2505.13276](http://arxiv.org/abs/2505.13276)|null|
+|**2025-05-23**|**Rank, Chunk and Expand: Lineage-Oriented Reasoning for Taxonomy Expansion**|Sahil Mishra et.al.|[2505.13282](http://arxiv.org/abs/2505.13282)|null|
+|**2025-05-19**|**CHAD-KG: A Knowledge Graph for Representing Cultural Heritage Objects and Digitisation Paradata**|Sebastian Barzaghi et.al.|[2505.13276](http://arxiv.org/abs/2505.13276)|**[link](https://github.com/dharc-org/morph-kgc-changes-metadata)**|
 |**2025-05-19**|**Agentic Publications: An LLM-Driven Framework for Interactive Scientific Publishing, Supplementing Traditional Papers with AI-Powered Knowledge Systems**|Roberto Pugliese et.al.|[2505.13246](http://arxiv.org/abs/2505.13246)|null|
 |**2025-05-19**|**Tianyi: A Traditional Chinese Medicine all-rounder language model and its Real-World Clinical Practice**|Zhi Liu et.al.|[2505.13156](http://arxiv.org/abs/2505.13156)|null|
 |**2025-05-19**|**LLM-KG-Bench 3.0: A Compass for SemanticTechnology Capabilities in the Ocean of LLMs**|Lars-Peter Meyer et.al.|[2505.13098](http://arxiv.org/abs/2505.13098)|**[link](https://github.com/aksw/llm-kg-bench)**|
@@ -844,7 +872,7 @@
 |**2025-05-18**|**Enhancing Large Language Models with Reward-guided Tree Search for Knowledge Graph Question and Answering**|Xiao Long et.al.|[2505.12476](http://arxiv.org/abs/2505.12476)|null|
 |**2025-05-18**|**Hyperbolic Residual Quantization: Discrete Representations for Data with Latent Hierarchies**|Piotr Piękos et.al.|[2505.12404](http://arxiv.org/abs/2505.12404)|null|
 |**2025-05-18**|**Fully Geometric Multi-Hop Reasoning on Knowledge Graphs with Transitive Relations**|Fernando Zhapa-Camacho et.al.|[2505.12369](http://arxiv.org/abs/2505.12369)|null|
-|**2025-05-18**|**UniEdit: A Unified Knowledge Editing Benchmark for Large Language Models**|Qizhou Chen et.al.|[2505.12345](http://arxiv.org/abs/2505.12345)|null|
+|**2025-05-23**|**UniEdit: A Unified Knowledge Editing Benchmark for Large Language Models**|Qizhou Chen et.al.|[2505.12345](http://arxiv.org/abs/2505.12345)|null|
 |**2025-05-18**|**MPRM: A Markov Path-based Rule Miner for Efficient and Interpretable Knowledge Graph Reasoning**|Mingyang Li et.al.|[2505.12329](http://arxiv.org/abs/2505.12329)|null|
 |**2025-05-18**|**Enhancing Knowledge Graph Completion with GNN Distillation and Probabilistic Interaction Modeling**|Lingzhi Wang et.al.|[2505.12272](http://arxiv.org/abs/2505.12272)|null|
 |**2025-05-17**|**Advanced Integration of Discrete Line Segments in Digitized P&ID for Continuous Instrument Connectivity**|Soumya Swarup Prusty et.al.|[2505.11976](http://arxiv.org/abs/2505.11976)|null|
@@ -1219,14 +1247,15 @@
 |**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
 |**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|**[link](https://github.com/qinyuma316/retrosynthesisagent)**|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
 ## GFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**Scalable Graph Generative Modeling via Substructure Sequences**|Zehong Wang et.al.|[2505.16130](http://arxiv.org/abs/2505.16130)|null|
-|**2025-05-21**|**Graph Foundation Models: A Comprehensive Survey**|Zehong Wang et.al.|[2505.15116](http://arxiv.org/abs/2505.15116)|null|
+|**2025-05-23**|**Transient Slack Capability**|Rodrigo Bernal et.al.|[2505.17984](http://arxiv.org/abs/2505.17984)|null|
+|**2025-05-22**|**Scalable Graph Generative Modeling via Substructure Sequences**|Zehong Wang et.al.|[2505.16130](http://arxiv.org/abs/2505.16130)|**[link](https://github.com/zehong-wang/g2pm)**|
+|**2025-05-21**|**Graph Foundation Models: A Comprehensive Survey**|Zehong Wang et.al.|[2505.15116](http://arxiv.org/abs/2505.15116)|**[link](https://github.com/zehong-wang/awesome-foundation-models-on-graphs)**|
 |**2025-05-20**|**OmniGenBench: A Modular Platform for Reproducible Genomic Foundation Models Benchmarking**|Heng Yang et.al.|[2505.14402](http://arxiv.org/abs/2505.14402)|null|
 |**2025-05-20**|**On the Input-Output Monotonicity of Voltage Dynamics of Power System with Grid-Forming Converters**|Zhenyao Li et.al.|[2505.13838](http://arxiv.org/abs/2505.13838)|null|
 |**2025-05-19**|**Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement**|Yinlin Zhu et.al.|[2505.12684](http://arxiv.org/abs/2505.12684)|null|
@@ -1280,7 +1309,7 @@
 |**2025-04-15**|**Toward Intelligent and Secure Cloud: Large Language Model Empowered Proactive Defense**|Yuyang Zhou et.al.|[2412.21051](http://arxiv.org/abs/2412.21051)|**[link](https://github.com/SEU-ProactiveSecurity-Group/LLM-PD)**|
 |**2024-12-24**|**GDM4MMIMO: Generative Diffusion Models for Massive MIMO Communications**|Zhenzhou Jin et.al.|[2412.18281](http://arxiv.org/abs/2412.18281)|null|
 |**2024-12-23**|**Towards Foundation Models on Graphs: An Analysis on Cross-Dataset Transfer of Pretrained GNNs**|Fabrizio Frasca et.al.|[2412.17609](http://arxiv.org/abs/2412.17609)|null|
-|**2025-01-30**|**Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees**|Zehong Wang et.al.|[2412.16441](http://arxiv.org/abs/2412.16441)|null|
+|**2025-05-25**|**Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees**|Zehong Wang et.al.|[2412.16441](http://arxiv.org/abs/2412.16441)|null|
 |**2024-12-19**|**Unified Control Scheme for Optimal Allocation of GFM and GFL Inverters in Power Networks**|Sushobhan Chatterjee et.al.|[2412.15446](http://arxiv.org/abs/2412.15446)|null|
 |**2025-03-03**|**IOHunter: Graph Foundation Model to Uncover Online Information Operations**|Marco Minici et.al.|[2412.14663](http://arxiv.org/abs/2412.14663)|**[link](https://github.com/mminici/socgfm)**|
 |**2024-12-15**|**GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts**|Zihao Guo et.al.|[2412.11085](http://arxiv.org/abs/2412.11085)|**[link](https://github.com/ringbdstack/graphmore)**|
@@ -1357,7 +1386,7 @@
 |**2024-11-18**|**Image Demoireing in RAW and sRGB Domains**|Shuning Xu et.al.|[2312.09063](http://arxiv.org/abs/2312.09063)|**[link](https://github.com/rebeccaeexu/RRID)**|
 |**2023-11-21**|**Resilient Control of Networked Microgrids using Vertical Federated Reinforcement Learning: Designs and Real-Time Test-Bed Validations**|Sayak Mukherjee et.al.|[2311.12264](http://arxiv.org/abs/2311.12264)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
