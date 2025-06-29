@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.06.27
+## Updated on 2025.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RAG
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**PsyLite Technical Report**|Fangjun Ding et.al.|[2506.21536](http://arxiv.org/abs/2506.21536)|null|
+|**2025-06-26**|**Leveraging LLM-Assisted Query Understanding for Live Retrieval-Augmented Generation**|Guanting Dong et.al.|[2506.21384](http://arxiv.org/abs/2506.21384)|null|
+|**2025-06-26**|**Response Quality Assessment for Retrieval-Augmented Generation via Conditional Conformal Factuality**|Naihe Feng et.al.|[2506.20978](http://arxiv.org/abs/2506.20978)|null|
+|**2025-06-26**|**EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora**|Fangyuan Zhang et.al.|[2506.20963](http://arxiv.org/abs/2506.20963)|null|
+|**2025-06-25**|**Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation**|Md Toufique Hasan et.al.|[2506.20869](http://arxiv.org/abs/2506.20869)|null|
+|**2025-06-25**|**MultiFinRAG: An Optimized Multimodal Retrieval-Augmented Generation (RAG) Framework for Financial Question Answering**|Chinmay Gondhalekar et.al.|[2506.20821](http://arxiv.org/abs/2506.20821)|null|
+|**2025-06-25**|**RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation**|Ali Tourani et.al.|[2506.20817](http://arxiv.org/abs/2506.20817)|null|
 |**2025-06-25**|**MMSearch-R1: Incentivizing LMMs to Search**|Jinming Wu et.al.|[2506.20670](http://arxiv.org/abs/2506.20670)|null|
 |**2025-06-25**|**Memento: Note-Taking for Your Future Self**|Chao Wan et.al.|[2506.20642](http://arxiv.org/abs/2506.20642)|null|
 |**2025-06-25**|**AI Assistants to Enhance and Exploit the PETSc Knowledge Base**|Barry Smith et.al.|[2506.20608](http://arxiv.org/abs/2506.20608)|null|
@@ -1070,6 +1077,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Active Inference AI Systems for Scientific Discovery**|Karthik Duraisamy et.al.|[2506.21329](http://arxiv.org/abs/2506.21329)|null|
+|**2025-06-26**|**Condensed Representation of RDF and its Application on Graph Versioning**|Jey Puget Gil et.al.|[2506.21203](http://arxiv.org/abs/2506.21203)|null|
+|**2025-06-26**|**Enhancing LLM Tool Use with High-quality Instruction Data from Knowledge Graph**|Jingwei Wang et.al.|[2506.21071](http://arxiv.org/abs/2506.21071)|null|
+|**2025-06-25**|**Generating Reliable Adverse event Profiles for Health through Automated Integrated Data (GRAPH-AID): A Semi-Automated Ontology Building Approach**|Srikar Reddy Gadusu et.al.|[2506.20851](http://arxiv.org/abs/2506.20851)|null|
 |**2025-06-25**|**Irec: A Metacognitive Scaffolding for Self-Regulated Learning through Just-in-Time Insight Recall: A Conceptual Framework and System Prototype**|Xuefei Hou et.al.|[2506.20156](http://arxiv.org/abs/2506.20156)|null|
 |**2025-06-24**|**Inference Scaled GraphRAG: Improving Multi Hop Question Answering on Knowledge Graphs**|Travis Thompson et.al.|[2506.19967](http://arxiv.org/abs/2506.19967)|null|
 |**2025-06-24**|**KnowML: Improving Generalization of ML-NIDS with Attack Knowledge Graphs**|Xin Fan Guo et.al.|[2506.19802](http://arxiv.org/abs/2506.19802)|null|

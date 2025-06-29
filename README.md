@@ -1,4 +1,4 @@
-## Updated on 2025.06.27
+## Updated on 2025.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**PsyLite Technical Report**|Fangjun Ding et.al.|[2506.21536](http://arxiv.org/abs/2506.21536)|null|
+|**2025-06-26**|**Leveraging LLM-Assisted Query Understanding for Live Retrieval-Augmented Generation**|Guanting Dong et.al.|[2506.21384](http://arxiv.org/abs/2506.21384)|null|
+|**2025-06-26**|**Response Quality Assessment for Retrieval-Augmented Generation via Conditional Conformal Factuality**|Naihe Feng et.al.|[2506.20978](http://arxiv.org/abs/2506.20978)|null|
+|**2025-06-26**|**EraRAG: Efficient and Incremental Retrieval Augmented Generation for Growing Corpora**|Fangyuan Zhang et.al.|[2506.20963](http://arxiv.org/abs/2506.20963)|null|
+|**2025-06-25**|**Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation**|Md Toufique Hasan et.al.|[2506.20869](http://arxiv.org/abs/2506.20869)|null|
+|**2025-06-25**|**MultiFinRAG: An Optimized Multimodal Retrieval-Augmented Generation (RAG) Framework for Financial Question Answering**|Chinmay Gondhalekar et.al.|[2506.20821](http://arxiv.org/abs/2506.20821)|null|
+|**2025-06-25**|**RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation**|Ali Tourani et.al.|[2506.20817](http://arxiv.org/abs/2506.20817)|null|
 |**2025-06-25**|**MMSearch-R1: Incentivizing LMMs to Search**|Jinming Wu et.al.|[2506.20670](http://arxiv.org/abs/2506.20670)|null|
 |**2025-06-25**|**Memento: Note-Taking for Your Future Self**|Chao Wan et.al.|[2506.20642](http://arxiv.org/abs/2506.20642)|null|
 |**2025-06-25**|**AI Assistants to Enhance and Exploit the PETSc Knowledge Base**|Barry Smith et.al.|[2506.20608](http://arxiv.org/abs/2506.20608)|null|
@@ -1055,7 +1062,7 @@
 |**2025-01-18**|**Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments**|Hongjin Su et.al.|[2501.10893](http://arxiv.org/abs/2501.10893)|null|
 |**2025-01-18**|**Visual RAG: Expanding MLLM visual knowledge without fine-tuning**|Mirco Bonomo et.al.|[2501.10834](http://arxiv.org/abs/2501.10834)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
 
 ## Agent
 
@@ -1065,7 +1072,7 @@
 |**2025-05-19**|**PersonaGym: Evaluating Persona Agents and LLMs**|Vinay Samuel et.al.|[2407.18416](http://arxiv.org/abs/2407.18416)|null|
 |**2024-10-09**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890](http://arxiv.org/abs/2406.13890)|**[link](https://github.com/weixiangyan/clinicallab)**|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
 
 ## GraphRAG
 
@@ -1077,12 +1084,16 @@
 |**2025-01-06**|**Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines**|Abdul M. Mohammed et.al.|[2502.15698](http://arxiv.org/abs/2502.15698)|null|
 |**2025-01-23**|**CAPRAG: A Large Language Model Solution for Customer Service and Automatic Reporting using Vector and Graph Retrieval-Augmented Generation**|Hamza Landolsi et.al.|[2501.13993](http://arxiv.org/abs/2501.13993)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
 
 ## KG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Active Inference AI Systems for Scientific Discovery**|Karthik Duraisamy et.al.|[2506.21329](http://arxiv.org/abs/2506.21329)|null|
+|**2025-06-26**|**Condensed Representation of RDF and its Application on Graph Versioning**|Jey Puget Gil et.al.|[2506.21203](http://arxiv.org/abs/2506.21203)|null|
+|**2025-06-26**|**Enhancing LLM Tool Use with High-quality Instruction Data from Knowledge Graph**|Jingwei Wang et.al.|[2506.21071](http://arxiv.org/abs/2506.21071)|null|
+|**2025-06-25**|**Generating Reliable Adverse event Profiles for Health through Automated Integrated Data (GRAPH-AID): A Semi-Automated Ontology Building Approach**|Srikar Reddy Gadusu et.al.|[2506.20851](http://arxiv.org/abs/2506.20851)|null|
 |**2025-06-25**|**Irec: A Metacognitive Scaffolding for Self-Regulated Learning through Just-in-Time Insight Recall: A Conceptual Framework and System Prototype**|Xuefei Hou et.al.|[2506.20156](http://arxiv.org/abs/2506.20156)|null|
 |**2025-06-24**|**Inference Scaled GraphRAG: Improving Multi Hop Question Answering on Knowledge Graphs**|Travis Thompson et.al.|[2506.19967](http://arxiv.org/abs/2506.19967)|null|
 |**2025-06-24**|**KnowML: Improving Generalization of ML-NIDS with Attack Knowledge Graphs**|Xin Fan Guo et.al.|[2506.19802](http://arxiv.org/abs/2506.19802)|null|
@@ -1660,7 +1671,7 @@
 |**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
 |**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|**[link](https://github.com/qinyuma316/retrosynthesisagent)**|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
 
 ## GFM
 
@@ -1818,7 +1829,7 @@
 |**2024-11-18**|**Image Demoireing in RAW and sRGB Domains**|Shuning Xu et.al.|[2312.09063](http://arxiv.org/abs/2312.09063)|**[link](https://github.com/rebeccaeexu/RRID)**|
 |**2023-11-21**|**Resilient Control of Networked Microgrids using Vertical Federated Reinforcement Learning: Designs and Real-Time Test-Bed Validations**|Sayak Mukherjee et.al.|[2311.12264](http://arxiv.org/abs/2311.12264)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
