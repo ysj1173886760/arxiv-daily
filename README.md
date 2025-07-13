@@ -1,4 +1,4 @@
-## Updated on 2025.07.11
+## Updated on 2025.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**|Sabine Felde et.al.|[2507.07983](http://arxiv.org/abs/2507.07983)|null|
+|**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
+|**2025-07-10**|**MIRA: A Novel Framework for Fusing Modalities in Medical RAG**|Jinhong Wang et.al.|[2507.07902](http://arxiv.org/abs/2507.07902)|null|
+|**2025-07-10**|**From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems**|Youngjoon Jang et.al.|[2507.07847](http://arxiv.org/abs/2507.07847)|null|
+|**2025-07-10**|**KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM question-answering capabilities**|Hruday Markondapatnaikuni et.al.|[2507.07695](http://arxiv.org/abs/2507.07695)|null|
+|**2025-07-10**|**From Domain Documents to Requirements: Retrieval-Augmented Generation in the Space Industry**|Chetan Arora et.al.|[2507.07689](http://arxiv.org/abs/2507.07689)|null|
+|**2025-07-10**|**FrugalRAG: Learning to retrieve and reason for multi-hop QA**|Abhinav Java et.al.|[2507.07634](http://arxiv.org/abs/2507.07634)|null|
+|**2025-07-10**|**The Cross-Lingual Cost: Retrieval Biases in RAG over Arabic-English Corpora**|Chen Amiraz et.al.|[2507.07543](http://arxiv.org/abs/2507.07543)|null|
+|**2025-07-10**|**DrugMCTS: a drug repurposing framework combining multi-agent, RAG and Monte Carlo Tree Search**|Zerui Yang et.al.|[2507.07426](http://arxiv.org/abs/2507.07426)|null|
+|**2025-07-09**|**Multi-Agent Retrieval-Augmented Framework for Evidence-Based Counterspeech Against Health Misinformation**|Anirban Saha Anik et.al.|[2507.07307](http://arxiv.org/abs/2507.07307)|null|
+|**2025-07-09**|**Compute Can't Handle the Truth: Why Communication Tax Prioritizes Memory and Interconnects in Modern AI Infrastructure**|Myoungsoo Jung et.al.|[2507.07223](http://arxiv.org/abs/2507.07223)|null|
+|**2025-07-09**|**Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics**|Xueqing Xu et.al.|[2507.07155](http://arxiv.org/abs/2507.07155)|null|
 |**2025-07-09**|**The User-Centric Geo-Experience: An LLM-Powered Framework for Enhanced Planning, Navigation, and Dynamic Adaptation**|Jieren Deng et.al.|[2507.06993](http://arxiv.org/abs/2507.06993)|null|
 |**2025-07-09**|**Investigating the Robustness of Retrieval-Augmented Generation at the Query Level**|Sezen Perçin et.al.|[2507.06956](http://arxiv.org/abs/2507.06956)|null|
 |**2025-07-10**|**The Dark Side of LLMs: Agent-based Attacks for Complete Computer Takeover**|Matteo Lupinacci et.al.|[2507.06850](http://arxiv.org/abs/2507.06850)|null|
@@ -1144,7 +1156,7 @@
 |**2025-01-18**|**Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments**|Hongjin Su et.al.|[2501.10893](http://arxiv.org/abs/2501.10893)|null|
 |**2025-01-18**|**Visual RAG: Expanding MLLM visual knowledge without fine-tuning**|Mirco Bonomo et.al.|[2501.10834](http://arxiv.org/abs/2501.10834)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
 
 ## Agent
 
@@ -1154,7 +1166,7 @@
 |**2025-05-19**|**PersonaGym: Evaluating Persona Agents and LLMs**|Vinay Samuel et.al.|[2407.18416](http://arxiv.org/abs/2407.18416)|null|
 |**2024-10-09**|**ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World**|Weixiang Yan et.al.|[2406.13890](http://arxiv.org/abs/2406.13890)|**[link](https://github.com/weixiangyan/clinicallab)**|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
 
 ## GraphRAG
 
@@ -1166,12 +1178,17 @@
 |**2025-01-06**|**Developing an Artificial Intelligence Tool for Personalized Breast Cancer Treatment Plans based on the NCCN Guidelines**|Abdul M. Mohammed et.al.|[2502.15698](http://arxiv.org/abs/2502.15698)|null|
 |**2025-01-23**|**CAPRAG: A Large Language Model Solution for Customer Service and Automatic Reporting using Vector and Graph Retrieval-Augmented Generation**|Hamza Landolsi et.al.|[2501.13993](http://arxiv.org/abs/2501.13993)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
 
 ## KG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
+|**2025-07-10**|**KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM question-answering capabilities**|Hruday Markondapatnaikuni et.al.|[2507.07695](http://arxiv.org/abs/2507.07695)|null|
+|**2025-07-10**|**Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2507.07595](http://arxiv.org/abs/2507.07595)|null|
+|**2025-07-10**|**Platform for Representation and Integration of multimodal Molecular Embeddings**|Erika Yilin Zheng et.al.|[2507.07367](http://arxiv.org/abs/2507.07367)|null|
+|**2025-07-03**|**Analysing semantic data storage in Distributed Ledger Technologies for Data Spaces**|Juan Cano-Benito et.al.|[2507.07116](http://arxiv.org/abs/2507.07116)|null|
 |**2025-07-09**|**SCoRE: Streamlined Corpus-based Relation Extraction using Multi-Label Contrastive Learning and Bayesian kNN**|Luca Mariotti et.al.|[2507.06895](http://arxiv.org/abs/2507.06895)|null|
 |**2025-07-09**|**FuDoBa: Fusing Document and Knowledge Graph-based Representations with Bayesian Optimisation**|Boshko Koloski et.al.|[2507.06622](http://arxiv.org/abs/2507.06622)|null|
 |**2025-07-09**|**Enhancing Food-Domain Question Answering with a Multimodal Knowledge Graph: Hybrid QA Generation and Diversity Analysis**|Srihari K B et.al.|[2507.06571](http://arxiv.org/abs/2507.06571)|null|
@@ -1799,7 +1816,7 @@
 |**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
 |**2025-01-15**|**Leveraging Large Language Models as Knowledge-Driven Agents for Reliable Retrosynthesis Planning**|Qinyu Ma et.al.|[2501.08897](http://arxiv.org/abs/2501.08897)|**[link](https://github.com/qinyuma316/retrosynthesisagent)**|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
 
 ## GFM
 
@@ -1959,7 +1976,7 @@
 |**2024-11-18**|**Image Demoireing in RAW and sRGB Domains**|Shuning Xu et.al.|[2312.09063](http://arxiv.org/abs/2312.09063)|**[link](https://github.com/rebeccaeexu/RRID)**|
 |**2023-11-21**|**Resilient Control of Networked Microgrids using Vertical Federated Reinforcement Learning: Designs and Real-Time Test-Bed Validations**|Sayak Mukherjee et.al.|[2311.12264](http://arxiv.org/abs/2311.12264)|null|
 
-<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250713>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
