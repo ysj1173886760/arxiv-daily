@@ -2,17 +2,37 @@
 layout: default
 ---
 
-## Updated on 2025.07.21
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RAG
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
+|**2025-07-21**|**Investigating the Use of LLMs for Evidence Briefings Generation in Software Engineering**|Mauro Marcelino et.al.|[2507.15828](http://arxiv.org/abs/2507.15828)|null|
+|**2025-07-21**|**VeriRAG: A Retrieval-Augmented Framework for Automated RTL Testability Repair**|Haomin Qi et.al.|[2507.15664](http://arxiv.org/abs/2507.15664)|null|
+|**2025-07-21**|**Learning to Extract Rational Evidence via Reinforcement Learning for Retrieval-Augmented Generation**|Xinping Zhao et.al.|[2507.15586](http://arxiv.org/abs/2507.15586)|null|
+|**2025-07-21**|**PhishIntentionLLM: Uncovering Phishing Website Intentions through Multi-Agent Retrieval-Augmented Generation**|Wenhao Li et.al.|[2507.15419](http://arxiv.org/abs/2507.15419)|null|
+|**2025-07-21**|**IM-Chat: A Multi-agent LLM-based Framework for Knowledge Transfer in Injection Molding Industry**|Junhyeong Lee et.al.|[2507.15268](http://arxiv.org/abs/2507.15268)|null|
+|**2025-07-21**|**VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving**|Haichao Liu et.al.|[2507.15266](http://arxiv.org/abs/2507.15266)|null|
+|**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
+|**2025-07-20**|**DeRAG: Black-box Adversarial Attacks on Multiple Retrieval-Augmented Generation Applications via Prompt Injection**|Jerry Wang et.al.|[2507.15042](http://arxiv.org/abs/2507.15042)|null|
+|**2025-07-20**|**Survey of GenAI for Automotive Software Development: From Requirements to Executable Code**|Nenad Petrovic et.al.|[2507.15025](http://arxiv.org/abs/2507.15025)|null|
+|**2025-07-20**|**LEKIA: A Framework for Architectural Alignment via Expert Knowledge Injection**|Boning Zhao et.al.|[2507.14944](http://arxiv.org/abs/2507.14944)|null|
+|**2025-07-20**|**Beyond Isolated Capabilities: Bridging Long CoT Reasoning and Long-Context Understanding**|Yifei Wang et.al.|[2507.14849](http://arxiv.org/abs/2507.14849)|null|
+|**2025-07-20**|**Enhancing Repository-Level Code Generation with Call Chain-Aware Multi-View Context**|Yang Liu et.al.|[2507.14791](http://arxiv.org/abs/2507.14791)|null|
+|**2025-07-19**|**Docopilot: Improving Multimodal Models for Document-Level Understanding**|Yuchen Duan et.al.|[2507.14675](http://arxiv.org/abs/2507.14675)|null|
+|**2025-07-19**|**Retrieval-Augmented Clinical Benchmarking for Contextual Model Testing in Kenyan Primary Care: A Methodology Paper**|Fred Mutisya et.al.|[2507.14615](http://arxiv.org/abs/2507.14615)|null|
+|**2025-07-22**|**X-Intelligence 3.0: Training and Evaluating Reasoning LLM for Semiconductor Display**|Xiaolin Yan et.al.|[2507.14430](http://arxiv.org/abs/2507.14430)|null|
+|**2025-07-14**|**DeepWriter: A Fact-Grounded Multimodal Writing Assistant Based On Offline Knowledge Base**|Song Mao et.al.|[2507.14189](http://arxiv.org/abs/2507.14189)|null|
+|**2025-07-18**|**KROMA: Ontology Matching with Knowledge Retrieval and Large Language Models**|Lam Nguyen et.al.|[2507.14032](http://arxiv.org/abs/2507.14032)|null|
+|**2025-07-18**|**RAG-based Architectures for Drug Side Effect Retrieval in LLMs**|Shad Nygren et.al.|[2507.13822](http://arxiv.org/abs/2507.13822)|null|
+|**2025-07-18**|**BifrostRAG: Bridging Dual Knowledge Graphs for Multi-Hop Question Answering in Construction Safety**|Yuxin Zhang et.al.|[2507.13625](http://arxiv.org/abs/2507.13625)|null|
+|**2025-07-16**|**DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning**|Qingyun Sun et.al.|[2507.13396](http://arxiv.org/abs/2507.13396)|null|
+|**2025-07-21**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
 |**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
 |**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378](http://arxiv.org/abs/2507.12378)|null|
-|**2025-07-16**|**GitChameleon: Evaluating AI Code Generation Against Python Library Version Incompatibilities**|Diganta Misra et.al.|[2507.12367](http://arxiv.org/abs/2507.12367)|null|
+|**2025-07-21**|**GitChameleon 2.0: Evaluating AI Code Generation Against Python Library Version Incompatibilities**|Diganta Misra et.al.|[2507.12367](http://arxiv.org/abs/2507.12367)|null|
 |**2025-07-16**|**Humans are more gullible than LLMs in believing common psychological myths**|Bevan Koopman et.al.|[2507.12296](http://arxiv.org/abs/2507.12296)|null|
 |**2025-07-14**|**HKGAI-V1: Towards Regional Sovereign Large Language Model for Hong Kong**|Sirui Han et.al.|[2507.11502](http://arxiv.org/abs/2507.11502)|null|
 |**2025-07-15**|**An Empirical Study of Multi-Agent RAG for Real-World University Admissions Counseling**|Anh Nguyen-Duc et.al.|[2507.11272](http://arxiv.org/abs/2507.11272)|null|
@@ -20,7 +40,7 @@ layout: default
 |**2025-07-11**|**AutoRAG-LoRA: Hallucination-Triggered Knowledge Retuning via Lightweight Adapters**|Kaushik Dwivedi et.al.|[2507.10586](http://arxiv.org/abs/2507.10586)|null|
 |**2025-07-11**|**ARPaCCino: An Agentic-RAG for Policy as Code Compliance**|Francesco Romeo et.al.|[2507.10584](http://arxiv.org/abs/2507.10584)|null|
 |**2025-07-16**|**Truth Sleuth and Trend Bender: AI Agents to fact-check YouTube videos and influence opinions**|Cécile Logé et.al.|[2507.10577](http://arxiv.org/abs/2507.10577)|null|
-|**2025-07-09**|**Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning**|Konstantinos I. Roumeliotis et.al.|[2507.10571](http://arxiv.org/abs/2507.10571)|null|
+|**2025-07-18**|**Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning**|Konstantinos I. Roumeliotis et.al.|[2507.10571](http://arxiv.org/abs/2507.10571)|null|
 |**2025-07-14**|**Am I on the Right Track? What Can Predicted Query Performance Tell Us about the Search Behaviour of Agentic RAG**|Fangzheng Tian et.al.|[2507.10411](http://arxiv.org/abs/2507.10411)|null|
 |**2025-07-14**|**Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis**|Yue Ding et.al.|[2507.10382](http://arxiv.org/abs/2507.10382)|null|
 |**2025-07-14**|**Introducing the Swiss Food Knowledge Graph: AI for Context-Aware Nutrition Recommendation**|Lubnaa Abdur Rahman et.al.|[2507.10156](http://arxiv.org/abs/2507.10156)|null|
@@ -64,7 +84,7 @@ layout: default
 |**2025-07-08**|**SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression**|Yiqiao Jin et.al.|[2507.05633](http://arxiv.org/abs/2507.05633)|null|
 |**2025-07-08**|**Beyond Retrieval: Ensembling Cross-Encoders and GPT Rerankers with LLMs for Biomedical QA**|Shashank Verma et.al.|[2507.05577](http://arxiv.org/abs/2507.05577)|null|
 |**2025-07-07**|**Cultivating Multimodal Intelligence: Interpretive Reasoning and Agentic RAG Approaches to Dermatological Diagnosis**|Karishma Thakrar et.al.|[2507.05520](http://arxiv.org/abs/2507.05520)|null|
-|**2025-07-07**|**GLOSS: Group of LLMs for Open-Ended Sensemaking of Passive Sensing Data for Health and Wellbeing**|Akshat Choube et.al.|[2507.05461](http://arxiv.org/abs/2507.05461)|null|
+|**2025-07-21**|**GLOSS: Group of LLMs for Open-Ended Sensemaking of Passive Sensing Data for Health and Wellbeing**|Akshat Choube et.al.|[2507.05461](http://arxiv.org/abs/2507.05461)|null|
 |**2025-07-07**|**LoRA-Augmented Generation (LAG) for Knowledge-Intensive Language Tasks**|William Fleshman et.al.|[2507.05346](http://arxiv.org/abs/2507.05346)|null|
 |**2025-07-14**|**Beyond classical and contemporary models: a transformative AI framework for student dropout prediction in distance learning using RAG, Prompt engineering, and Cross-modal fusion**|Miloud Mihoubi et.al.|[2507.05285](http://arxiv.org/abs/2507.05285)|null|
 |**2025-07-04**|**ReservoirChat: Interactive Documentation Enhanced with LLM and Knowledge Graph for ReservoirPy**|Virgile Boraud et.al.|[2507.05279](http://arxiv.org/abs/2507.05279)|null|
@@ -1200,6 +1220,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
+|**2025-07-22**|**A SHACL-based Data Consistency Solution for Contract Compliance Verification**|Robert David et.al.|[2507.15420](http://arxiv.org/abs/2507.15420)|null|
+|**2025-07-20**|**Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs**|Erfan Pirmorad et.al.|[2507.14785](http://arxiv.org/abs/2507.14785)|null|
+|**2025-07-19**|**GRACE: Generative Recommendation via Journey-Aware Sparse Attention on Chain-of-Thought Tokenization**|Luyi Ma et.al.|[2507.14758](http://arxiv.org/abs/2507.14758)|null|
+|**2025-07-19**|**Towards Temporal Knowledge Graph Alignment in the Wild**|Runhao Zhao et.al.|[2507.14475](http://arxiv.org/abs/2507.14475)|null|
+|**2025-07-22**|**BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning**|Yitong Lin et.al.|[2507.14468](http://arxiv.org/abs/2507.14468)|null|
+|**2025-07-18**|**Error-Aware Curriculum Learning for Biomedical Relation Classification**|Sinchani Chakraborty et.al.|[2507.14374](http://arxiv.org/abs/2507.14374)|null|
+|**2025-07-18**|**Text-to-SQL for Enterprise Data Analytics**|Albert Chen et.al.|[2507.14372](http://arxiv.org/abs/2507.14372)|null|
 |**2025-07-18**|**OrthoInsight: Rib Fracture Diagnosis and Report Generation Based on Multi-Modal Large Models**|Ningyong Wu et.al.|[2507.13993](http://arxiv.org/abs/2507.13993)|null|
 |**2025-07-18**|**Bottom-up Domain-specific Superintelligence: A Reliable Knowledge Graph is What We Need**|Bhishma Dedhia et.al.|[2507.13966](http://arxiv.org/abs/2507.13966)|null|
 |**2025-07-18**|**PARK: Personalized academic retrieval with knowledge-graphs**|Pranav Kasela et.al.|[2507.13910](http://arxiv.org/abs/2507.13910)|null|
@@ -1229,12 +1257,12 @@ layout: default
 |**2025-07-09**|**RAG Safety: Exploring Knowledge Poisoning Attacks to Retrieval-Augmented Generation**|Tianzhe Zhao et.al.|[2507.08862](http://arxiv.org/abs/2507.08862)|null|
 |**2025-07-11**|**Knowledge Graph-Based approach for Sustainable 6G End-to-End System Design**|Akshay Jain et.al.|[2507.08717](http://arxiv.org/abs/2507.08717)|null|
 |**2025-07-11**|**KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation**|Songlin Zhai et.al.|[2507.08704](http://arxiv.org/abs/2507.08704)|null|
-|**2025-07-11**|**A Multi-granularity Concept Sparse Activation and Hierarchical Knowledge Graph Fusion Framework for Rare Disease Diagnosis**|Mingda Zhang et.al.|[2507.08529](http://arxiv.org/abs/2507.08529)|null|
+|**2025-07-22**|**A Multi-granularity Concept Sparse Activation and Hierarchical Knowledge Graph Fusion Framework for Rare Disease Diagnosis**|Mingda Zhang et.al.|[2507.08529](http://arxiv.org/abs/2507.08529)|null|
 |**2025-07-11**|**KGRAG-Ex: Explainable Retrieval-Augmented Generation with Knowledge Graph-based Perturbations**|Georgios Balanos et.al.|[2507.08443](http://arxiv.org/abs/2507.08443)|null|
 |**2025-07-11**|**xpSHACL: Explainable SHACL Validation using Retrieval-Augmented Generation and Large Language Models**|Gustavo Correa Publio et.al.|[2507.08432](http://arxiv.org/abs/2507.08432)|null|
 |**2025-07-11**|**ChainEdit: Propagating Ripple Effects in LLM Knowledge Editing through Logical Rule-Guided Chains**|Zilu Dong et.al.|[2507.08427](http://arxiv.org/abs/2507.08427)|null|
 |**2025-07-10**|**GRASP: Generic Reasoning And SPARQL Generation across Knowledge Graphs**|Sebastian Walter et.al.|[2507.08107](http://arxiv.org/abs/2507.08107)|null|
-|**2025-07-10**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
+|**2025-07-22**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
 |**2025-07-10**|**KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM question-answering capabilities**|Hruday Markondapatnaikuni et.al.|[2507.07695](http://arxiv.org/abs/2507.07695)|null|
 |**2025-07-10**|**Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2507.07595](http://arxiv.org/abs/2507.07595)|null|
 |**2025-07-10**|**Platform for Representation and Integration of multimodal Molecular Embeddings**|Erika Yilin Zheng et.al.|[2507.07367](http://arxiv.org/abs/2507.07367)|null|
@@ -1870,6 +1898,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Physics-Informed Learning of Proprietary Inverter Models for Grid Dynamic Studies**|Kyung-Bin Kwon et.al.|[2507.15259](http://arxiv.org/abs/2507.15259)|null|
 |**2025-07-15**|**Globalization for Scalable Short-term Load Forecasting**|Amirhossein Ahmadi et.al.|[2507.11729](http://arxiv.org/abs/2507.11729)|null|
 |**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
 |**2025-07-11**|**From Physics to Foundation Models: A Review of AI-Driven Quantitative Remote Sensing Inversion**|Zhenyu Yu et.al.|[2507.09081](http://arxiv.org/abs/2507.09081)|null|
