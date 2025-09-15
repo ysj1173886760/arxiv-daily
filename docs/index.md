@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.13
+## Updated on 2025.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## RAG
